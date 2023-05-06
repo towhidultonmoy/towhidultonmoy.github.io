@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[View CV Here](https://drive.google.com/file/d/1KuN1KpZsPCCgvN_ywZSTrMcWeEIJpOhD/view?usp=sharing)
 
 Education
 ======
