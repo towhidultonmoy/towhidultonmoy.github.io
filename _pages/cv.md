@@ -12,18 +12,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Islamic University Of Technology, Gazipur, Dhaka 2012
+<!-- * M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* Applied ML Researcher: Robi Axiata Limited (Sep 2022 - Present)
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* Reseacrh & Developement Intern : Unilever Bangladesh Limited (Oct 2021 - Jan 2022)
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
