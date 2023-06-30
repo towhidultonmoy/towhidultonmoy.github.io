@@ -13,8 +13,8 @@ redirect_from:
 Education
 ======
 * B.S. in Islamic University Of Technology, Gazipur, Dhaka 2012
-<!-- * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+<!-- * M.S. in Jekyll, GitHub University, 2014 -->
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 Work experience
 ======
