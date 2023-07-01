@@ -20,7 +20,7 @@ I am open to collaborate with any research opportunity related to my area of int
 <div class="counter-container">
   <div class="counter-card">
     <h3>Papers</h3>
-    <p class="count">0</p>
+    <p class="count">4</p>
     <p>Two papers under review</p>
   </div>
   <div class="counter-card">
@@ -31,7 +31,7 @@ I am open to collaborate with any research opportunity related to my area of int
   <div class="counter-card">
     <h3>Journals</h3>
     <p class="count">1</p>
-    <p>Currently writing a journal that will be submitted to a Q1 journal</p>
+    <p>One Q1 journal under review .</p>
   </div>
   <div class="counter-card">
     <h3>Awards</h3>
