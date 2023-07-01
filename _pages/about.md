@@ -49,9 +49,9 @@ I am open to collaborate with any research opportunity related to my area of int
 }
 
 .counter-card {
-  flex-basis: 150px;
+  flex-basis: 180px;
   text-align: center;
-  padding: 20px;
+  padding: 10px;
   background-color: #f2f2f2;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
