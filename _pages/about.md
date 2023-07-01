@@ -19,7 +19,7 @@ I am open to collaborate with any research opportunity related to my area of int
 
 <div class="counter-container">
   <div class="counter-card">
-    <h3><a href="publications.md">Papers</a>Papers</h3>
+    <h3><a href=/publications/>Papers</a></h3>
     <p class="count">4</p>
     <p>Two papers under review</p>
   </div>
