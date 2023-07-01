@@ -52,16 +52,16 @@ I am open to collaborate with any research opportunity related to my area of int
   flex-basis: 170px;
   text-align: center;
   padding: 20px;
-  background-color: #121212;
+  background-color: #121212.;
   color: #ffffff;
   border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 2px 4px rgba(0, 0, 1, 0.1);
   transition: transform 0.3s ease-in-out;
 }
 
 .counter-card:hover {
   transform: translateY(-5px);
-  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 h3 {
