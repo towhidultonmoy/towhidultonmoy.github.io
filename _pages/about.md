@@ -161,59 +161,11 @@ p {
 
 ## News Updates
 
-<div class="news-container">
-  <div class="news-card">
-    <h3>Exciting Research Discovery</h3>
-    <p class="date">June 15, 2023</p>
-    <p>A groundbreaking research finding has been published in a prestigious journal.</p>
-  </div>
-  <div class="news-card">
-    <h3>Upcoming Conference Announcement</h3>
-    <p class="date">July 1, 2023</p>
-    <p>We are pleased to announce the upcoming international conference on AI and ML.</p>
-  </div>
-  <div class="news-card">
-    <h3>New Collaboration Opportunity</h3>
-    <p class="date">August 10, 2023</p>
-    <p>We are excited to announce a new collaboration opportunity with a leading industry partner.</p>
-  </div>
-</div>
+- **Exciting Research Discovery** - June 15, 2023
+  A groundbreaking research finding has been published in a prestigious journal.
 
-<style>
-.news-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
-}
+- **Upcoming Conference Announcement** - July 1, 2023
+  We are pleased to announce the upcoming international conference on AI and ML.
 
-.news-card {
-  flex-basis: 350px;
-  padding: 20px;
-  background-color: #f2f2f2;
-  border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease-in-out;
-}
-
-.news-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-h3 {
-  margin-top: 0;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-.date {
-  font-size: 14px;
-  color: #666666;
-}
-
-p {
-  margin-bottom: 0;
-  font-size: 14px;
-}
-</style>
+- **New Collaboration Opportunity** - August 10, 2023
+  We are excited to announce a new collaboration opportunity with a leading industry partner.
