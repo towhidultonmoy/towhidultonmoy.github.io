@@ -15,15 +15,8 @@ Our recent publication at ACL2023 main is a testament to my passion and dedicati
 
 I am open to collaborate with any research opportunity related to my area of interest. If you have any queries, please feel free to reach out to me via [email](towhidulislam@iut-dhaka.edu).
 
----
-permalink: /
-title: "Awards and Certifications"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+Education
+======
 * Google Analytics Certified Developer
 
 * Mobile Web Specialist - Google Certification
