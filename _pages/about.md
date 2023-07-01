@@ -29,3 +29,13 @@ Education
 
 * 1 st Place - James Buchanan High School - Hackathon 2006
 * 3 rd Place - James Buchanan High School - Hackathon 2005
+
+## Undergraduate Projects, Journals & Papers
+
+| Title   | Count | Description |
+| ------- | ----- | ----------- |
+| Papers  | 0     | Two papers under review |
+| Projects | 3    | Eight undergraduate projects completed |
+| Journals | 1    | Currently writing a journal that will be submitted to a Q1 journal |
+| Awards   | 7    | I have achieved three awards during my student life. The rest of the awards are in sports |
+
