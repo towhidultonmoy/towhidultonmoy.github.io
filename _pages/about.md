@@ -49,7 +49,7 @@ I am open to collaborate with any research opportunity related to my area of int
 }
 
 .counter-card {
-  flex-basis: 100px;
+  flex-basis: 150px;
   text-align: center;
   padding: 20px;
   background-color: #f2f2f2;
