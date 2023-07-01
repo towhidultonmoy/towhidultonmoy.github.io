@@ -165,17 +165,17 @@ p {
   <div class="news-card">
     <h3>Exciting Research Discovery</h3>
     <p class="date">June 15, 2023</p>
-    <p>A groundbreaking research finding has been published in a prestigious journal. Read more <a href="news/research-discovery.md">here</a>.</p>
+    <p>A groundbreaking research finding has been published in a prestigious journal.</p>
   </div>
   <div class="news-card">
     <h3>Upcoming Conference Announcement</h3>
     <p class="date">July 1, 2023</p>
-    <p>We are pleased to announce the upcoming international conference on AI and ML. Find out more details <a href="news/conference-announcement.md">here</a>.</p>
+    <p>We are pleased to announce the upcoming international conference on AI and ML.</p>
   </div>
   <div class="news-card">
     <h3>New Collaboration Opportunity</h3>
     <p class="date">August 10, 2023</p>
-    <p>We are excited to announce a new collaboration opportunity with a leading industry partner. Learn more <a href="news/collaboration-opportunity.md">here</a>.</p>
+    <p>We are excited to announce a new collaboration opportunity with a leading industry partner.</p>
   </div>
 </div>
 
@@ -209,7 +209,7 @@ h3 {
 
 .date {
   font-size: 14px;
-  color: #ffffff;
+  color: #666666;
 }
 
 p {
