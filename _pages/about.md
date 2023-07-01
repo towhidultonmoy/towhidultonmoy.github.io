@@ -52,7 +52,7 @@ I am open to collaborate with any research opportunity related to my area of int
   flex-basis: 170px;
   text-align: center;
   padding: 20px;
-  background-color: #333333;
+  background-color: #000080;
   color: #ffffff;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
