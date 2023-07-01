@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## About me
 Hi there! I am S.M Towhidul Islam, an Electrical & Electronic Engineering Graduate student from [Islamic University Of Technology](https://www.iutoic-dhaka.edu/), Gazipur, Bangladesh. 
 
 I am a proud graduate of 2022 with a CGPA of 3.68. Presently, I am working as an Applied ML Researcher at [Robi Axiata Limited](https://www.robi.com.bd/en), Bangladesh. Additionally, I am contributing as a Research Affiliate at The Artificial Intelligence Institute of UofSC ([AIISC](https://aiisc.ai/)) under the guidance of Professor [Dr. Amitava Das](https://scholar.google.com/citations?hl=en&user=HYpfhaEAAAAJ&view_op=list_works&sortby=pubdate).
