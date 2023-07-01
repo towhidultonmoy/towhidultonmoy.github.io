@@ -31,7 +31,7 @@ I am open to collaborate with any research opportunity related to my area of int
   <div class="counter-card">
     <h3>Journals</h3>
     <p class="count">1</p>
-    <p>One Q1 journal under review .</p>
+    <p>One Q1 journal under review</p>
   </div>
   <div class="counter-card">
     <h3>Awards</h3>
@@ -52,7 +52,8 @@ I am open to collaborate with any research opportunity related to my area of int
   flex-basis: 170px;
   text-align: center;
   padding: 20px;
-  background-color: #f2f2f2;
+  background-color: #333333;
+  color: #ffffff;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   transition: transform 0.3s ease-in-out;
@@ -60,11 +61,25 @@ I am open to collaborate with any research opportunity related to my area of int
 
 .counter-card:hover {
   transform: translateY(-5px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h3 {
+  margin-top: 0;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffffff;
 }
 
 .count {
   font-size: 36px;
   font-weight: bold;
   color: #ff6b6b;
+}
+
+p {
+  margin-bottom: 0;
+  font-size: 14px;
+  color: #ffffff;
 }
 </style>
