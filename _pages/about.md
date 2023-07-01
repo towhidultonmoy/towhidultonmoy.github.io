@@ -15,23 +15,6 @@ Our recent publication at ACL2023 main is a testament to my passion and dedicati
 
 I am open to collaborate with any research opportunity related to my area of interest. If you have any queries, please feel free to reach out to me via [email](towhidulislam@iut-dhaka.edu).
 
-Education
-======
-* Google Analytics Certified Developer
-
-* Mobile Web Specialist - Google Certification
-
-* 1 st Place - University of Colorado Boulder - Emerging Tech Competition 2009
-
-* 1 st Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)
-
-* 2 nd Place - University of Colorado Boulder - Emerging Tech Competition 2008
-
-* 1 st Place - James Buchanan High School - Hackathon 2006
-* 3 rd Place - James Buchanan High School - Hackathon 2005
-
-## Undergraduate Projects, Journals & Papers
-
 ## Undergraduate Projects, Journals & Papers
 
 <div class="counter-container">
@@ -60,13 +43,13 @@ Education
 <style>
 .counter-container {
   display: flex;
-  justify-content: flex-start;
-  gap: 20px;
   flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
 }
 
 .counter-card {
-  width: 250px;
+  flex-basis: 200px;
   text-align: center;
   padding: 20px;
   background-color: #f2f2f2;
@@ -85,4 +68,3 @@ Education
   color: #ff6b6b;
 }
 </style>
-
