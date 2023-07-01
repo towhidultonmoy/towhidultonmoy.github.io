@@ -32,10 +32,25 @@ Education
 
 ## Undergraduate Projects, Journals & Papers
 
-| Title   | Count | Description |
-| ------- | ----- | ----------- |
-| Papers  | 0     | Two papers under review |
-| Projects | 3    | Eight undergraduate projects completed |
-| Journals | 1    | Currently writing a journal that will be submitted to a Q1 journal |
-| Awards   | 7    | I have achieved three awards during my student life. The rest of the awards are in sports |
-
+<div style="display: flex; gap: 20px; flex-wrap: wrap;">
+  <div style="width: 250px; text-align: center;">
+    <h3>Papers</h3>
+    <p>0</p>
+    <p>Two papers under review</p>
+  </div>
+  <div style="width: 250px; text-align: center;">
+    <h3>Projects</h3>
+    <p>3</p>
+    <p>Eight undergraduate projects completed</p>
+  </div>
+  <div style="width: 250px; text-align: center;">
+    <h3>Journals</h3>
+    <p>1</p>
+    <p>Currently writing a journal that will be submitted to a Q1 journal</p>
+  </div>
+  <div style="width: 250px; text-align: center;">
+    <h3>Awards</h3>
+    <p>7</p>
+    <p>I have achieved three awards during my student life. The rest of the awards are in sports</p>
+  </div>
+</div>
