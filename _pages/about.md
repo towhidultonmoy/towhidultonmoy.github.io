@@ -32,25 +32,57 @@ Education
 
 ## Undergraduate Projects, Journals & Papers
 
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <div style="width: 250px; text-align: center;">
+## Undergraduate Projects, Journals & Papers
+
+<div class="counter-container">
+  <div class="counter-card">
     <h3>Papers</h3>
-    <p>0</p>
+    <p class="count">0</p>
     <p>Two papers under review</p>
   </div>
-  <div style="width: 250px; text-align: center;">
+  <div class="counter-card">
     <h3>Projects</h3>
-    <p>3</p>
+    <p class="count">3</p>
     <p>Eight undergraduate projects completed</p>
   </div>
-  <div style="width: 250px; text-align: center;">
+  <div class="counter-card">
     <h3>Journals</h3>
-    <p>1</p>
+    <p class="count">1</p>
     <p>Currently writing a journal that will be submitted to a Q1 journal</p>
   </div>
-  <div style="width: 250px; text-align: center;">
+  <div class="counter-card">
     <h3>Awards</h3>
-    <p>7</p>
+    <p class="count">7</p>
     <p>I have achieved three awards during my student life. The rest of the awards are in sports</p>
   </div>
 </div>
+
+<style>
+.counter-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.counter-card {
+  width: 250px;
+  text-align: center;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.counter-card:hover {
+  transform: translateY(-5px);
+}
+
+.count {
+  font-size: 36px;
+  font-weight: bold;
+  color: #ff6b6b;
+}
+</style>
+
