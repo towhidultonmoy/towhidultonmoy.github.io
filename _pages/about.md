@@ -84,5 +84,77 @@ p {
 }
 </style>
 
+<div class="experience-container">
+  <div class="education">
+    <h2>Education</h2>
+    <ul>
+      <li>
+        <h3>Master's Degree in Electrical & Electronic Engineering</h3>
+        <p>Islamic University Of Technology, Bangladesh</p>
+        <p>2019 - 2022</p>
+      </li>
+      <li>
+        <h3>Bachelor's Degree in Electrical & Electronic Engineering</h3>
+        <p>Islamic University Of Technology, Bangladesh</p>
+        <p>2015 - 2019</p>
+      </li>
+    </ul>
+  </div>
+  <div class="professional-experience">
+    <h2>Professional Experience</h2>
+    <ul>
+      <li>
+        <h3>Applied ML Researcher</h3>
+        <p>Robi Axiata Limited, Bangladesh</p>
+        <p>2022 - Present</p>
+      </li>
+      <li>
+        <h3>Research Affiliate</h3>
+        <p>The Artificial Intelligence Institute of UofSC (AIISC)</p>
+        <p>2022 - Present</p>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<style>
+.experience-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.education,
+.professional-experience {
+  flex-basis: 48%;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+p {
+  margin: 0;
+  font-size: 14px;
+  color: #666666;
+}
+</style>
 
 
