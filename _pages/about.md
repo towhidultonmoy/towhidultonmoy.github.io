@@ -169,3 +169,12 @@ p {
 
 - **New Collaboration Opportunity** - August 10, 2023
   We are excited to announce a new collaboration opportunity with a leading industry partner.
+
+## Skills
+
+- Programming Languages: Python, SQL, R
+- Big Data Technologies: Hive, Hue, Cloudera
+- Database Management: Oracle
+- Data Visualization: Tableau, Power BI
+- Machine Learning: NLP, State-of-the-art Models
+- Web Development: Streamlit, Gradio
