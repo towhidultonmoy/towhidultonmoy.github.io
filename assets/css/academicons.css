@@ -260,10 +260,10 @@
   float: right;
 }
 .ai.fa-pull-left {
-  margin-right: .1em;
+  margin-right: .3em;
 }
 .ai.fa-pull-right {
-  margin-left: .1em;
+  margin-left: .3em;
 }
 /*  
  *  Repeat of the FontAwesome style classes to prevent override if academicons.css
@@ -320,8 +320,8 @@
   float: right;
 }
 .fa.fa-pull-left {
-  margin-right: .1em;
+  margin-right: .3em;
 }
 .fa.fa-pull-right {
-  margin-left: .1em;
+  margin-left: .3em;
 }

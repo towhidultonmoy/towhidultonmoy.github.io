@@ -60,7 +60,7 @@ Education
 <style>
 .counter-container {
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   gap: 20px;
   flex-wrap: wrap;
 }
