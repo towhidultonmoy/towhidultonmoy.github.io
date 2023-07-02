@@ -30,7 +30,7 @@ paperurl: 'https://arxiv.org/abs/2305.04329'
 </head>
 <body>
     <div class="cover">
-        <img src="images/5wqa_poster.png" alt="Cover Image">
+        <img src="5wqa_poster.png" alt="Cover Image">
     </div>
 
 
