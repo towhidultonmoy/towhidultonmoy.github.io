@@ -1,5 +1,5 @@
 ---
-title: "“Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as
+title: "Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as
 You May Think - Introducing AI Detectability Index (ADI)."
 collection: submitted
 permalink: /publication/2022-11-01-paper-title-number-3
