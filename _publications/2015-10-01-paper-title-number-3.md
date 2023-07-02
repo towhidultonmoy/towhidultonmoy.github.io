@@ -22,20 +22,21 @@ Abstract: Automatic fact verification has received significant attention recentl
     <style>
         .container {
             display: flex;
-            justify-content: space-between;
+            justify-content: center;
         }
 
         .container a {
-            padding: 10px 20px;
-            background-color: #f5f5f5;
-            color: #333;
+            padding: 8px 16px;
+            margin: 0 8px;
+            background-color: #4CAF50;
+            color: white;
             text-decoration: none;
             border-radius: 4px;
             transition: background-color 0.3s;
         }
 
         .container a:hover {
-            background-color: #ddd;
+            background-color: #45a049;
         }
     </style>
 </head>
@@ -47,6 +48,7 @@ Abstract: Automatic fact verification has received significant attention recentl
     </div>
 </body>
 </html>
+
 
 
 
