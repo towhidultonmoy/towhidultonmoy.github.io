@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 4"
-collection: publications
-permalink: /publication/2011-10-01-paper-title-number-4
-excerpt: 'This paper is about the number 4. The number 4 is left for future work.'
-date: 2011-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
-This paper is about the number 4. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 4." <i>Journal 1</i>. 1(3).
+title: "OOG-Optuna Optimized GAN Sampling
+Technique for Tabular Imbalanced Malware Data."
+collection: submitted
+permalink: /publication/2022-11-01-paper-title-number-3
+excerpt: 'Megha Chakraborty, <i><b>S.M Towhidul Islam Tonmoy</b></i>, S M Mehedi Zaman, Shreya Gautam, Tanay
+Kumar, Krish Sharma, Niyar R Barman, Chandan Gupta, Vinija Jain, Aman Chadha, Amit P. Sheth,
+Amitava Das'
+date: 2023-11-01
+venue: 'EMNLP'
+#paperurl: 'https://ieeexplore.ieee.org/abstract/document/10020393/'
+#citation: 'Anku Rani, <i>S.M Towhidul Islam Tonmoy</i>, Dwip D. Dalal, Shreya Gautam, Megha Chakraborty, Aman
+#Chadha, Amit Sheth and Amitava Das'
