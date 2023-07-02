@@ -8,6 +8,8 @@ Chadha, Amit Sheth and Amitava Das.'
 date: 2023-07-10
 venue: ' ACL Main'
 paperurl: 'https://arxiv.org/abs/2305.04329'
+demo: 'https://huggingface.co/spaces/Towhidul/5WQA'
+code: 'https://github.com/ankuranii/acl-5W-QA/tree/master'
 #citation: 'Anku Rani, <i>S.M Towhidul Islam Tonmoy</i>, Dwip D. Dalal, Shreya Gautam, Megha Chakraborty, Aman
 #Chadha, Amit Sheth and Amitava Das'
 
