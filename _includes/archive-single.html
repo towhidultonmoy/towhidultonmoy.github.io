@@ -52,20 +52,14 @@
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
     
-    {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
+    {% if post.paperurl and post.code and post.demo%}
       <p><a href="{{ post.paperurl }}" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border: none;">PDF</a>
+        <a href="{{ post.code }}" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border: none;">Code</a>
+        <a href="{{ post.demo }}" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border: none;">Web Demo</a>
       </p>
-    {% elsif post.demo %}
+    {% elsif post.paperurl %}
     <p>
-      <a href="{{ post.code }}" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border: none;">Code</a>
-    </p>
-    {% elsif post.code %}
-    <p>
-      <a href="{{ post.demo }}" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border: none;">Web Demo</a>
+      <a href="{{ post.paperurl }}" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border: none;">PDF</a>
     </p>
     {% endif %}
 
