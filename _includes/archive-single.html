@@ -57,6 +57,14 @@
     {% elsif post.citation %}
       <p>Recommended citation: {{ post.citation }} </p>
     {% elsif post.paperurl %}
+    <p><a href="{{ post.paperurl }}" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border: none;">PDF</a>
+  
+    </p>
+    {% elsif post.paperurl and post.code %}
+    <p><a href="{{ post.paperurl }}" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border: none;">PDF</a>
+      <a href="{{ post.code }}" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border: none;">Code</a>
+    </p>
+    {% elsif post.paperurl and post.demo and post.code %}
       <p><a href="{{ post.paperurl }}" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border: none;">PDF</a>
         <a href="{{ post.code }}" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border: none;">Code</a>
         <a href="{{ post.demo }}" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border: none;">Web Demo</a>
