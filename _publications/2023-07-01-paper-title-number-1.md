@@ -2,13 +2,12 @@
 title: "FACTIFY-5WQA: 5W Aspect-based Fact Verification
 through Question Answering."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2023-07-01-paper-title-number-1
 excerpt: 'Anku Rani, <i><b>S.M Towhidul Islam Tonmoy</b></i>, Dwip D. Dalal, Shreya Gautam, Megha Chakraborty, Aman
 Chadha, Amit Sheth and Amitava Das.'
 date: 2023-07-10
 venue: ' ACL Main'
 paperurl: 'https://arxiv.org/abs/2305.04329'
-demo: 'https://arxiv.org/abs/2305.04329'
 #citation: 'Anku Rani, <i>S.M Towhidul Islam Tonmoy</i>, Dwip D. Dalal, Shreya Gautam, Megha Chakraborty, Aman
 #Chadha, Amit Sheth and Amitava Das'
 
