@@ -12,6 +12,29 @@ paperurl: 'https://arxiv.org/abs/2305.04329'
 #Chadha, Amit Sheth and Amitava Das'
 
 ---
+
+<html>
+<head>
+    <style>
+        .cover {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .cover img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="cover">
+        <img src="images/5wqa_poster.png" alt="Cover Image">
+    </div>
+
+
+
 Anku Rani, <i><b>S.M Towhidul Islam Tonmoy</b></i>, Dwip D. Dalal, Shreya Gautam, Megha Chakraborty, Aman
 Chadha, Amit Sheth and Amitava Das.
 
@@ -42,13 +65,14 @@ Abstract: Automatic fact verification has received significant attention recentl
 </head>
 <body>
     <div class="container">
-        <a href="https://example.com/path/to/pdf.pdf">PDF</a>
-        <a href="https://example.com/path/to/code.zip">Code</a>
-        <a href="https://example.com/web-demo">Web Demo</a>
+        <a href="https://arxiv.org/abs/2305.04329">PDF</a>
+        <a href="https://github.com/ankuranii/acl-5W-QA/tree/master">Code</a>
+        <a href="https://huggingface.co/spaces/Towhidul/5WQA">Web Demo</a>
     </div>
 </body>
 </html>
 
-
+</body>
+</html>
 
 
