@@ -30,7 +30,7 @@ I am open to collaborate with any research opportunity related to my area of int
     <p>Eight undergraduate projects completed</p>
   </div>
   <div class="counter-card">
-    <h3>Journals</h3>
+    <h3><a href="/publications/">Journals</a></h3> 
     <p class="count">1</p>
     <p>One Q1 journal under review</p>
   </div>
@@ -90,14 +90,19 @@ p {
     <h2>Education</h2>
     <ul>
       <li>
-        <h3>Master's Degree in Electrical & Electronic Engineering</h3>
-        <p>Islamic University Of Technology, Bangladesh</p>
-        <p>2019 - 2022</p>
-      </li>
-      <li>
         <h3>Bachelor's Degree in Electrical & Electronic Engineering</h3>
         <p>Islamic University Of Technology, Bangladesh</p>
-        <p>2015 - 2019</p>
+        <p>Jan 2018 - May 2022</p>
+      </li>
+      <li>
+        <h3>Higher Secondary School Certificate (HSC) in Science</h3>
+        <p>Notre Dame College, Dhaka, Bangladesh</p>
+        <p>2015 - 2017</p>
+      </li>
+        <li>
+        <h3>Secondary School Certificate (SSC) in Science</h3>
+        <p>Comilla Zilla School, Cumilla, Bangladesh</p>
+        <p>2011 - 2015</p>
       </li>
     </ul>
   </div>
@@ -105,14 +110,19 @@ p {
     <h2>Professional Experience</h2>
     <ul>
       <li>
-        <h3>Applied ML Researcher</h3>
-        <p>Robi Axiata Limited, Bangladesh</p>
-        <p>2022 - Present</p>
+        <h3>Applied ML Researcher</h3> 
+        <p><a href="https://www.robi.com.bd/en">Robi Axiata Limited, Bangladesh</a></p> 
+        <p>Sep 2022 - Present</p>
       </li>
       <li>
         <h3>Research Affiliate</h3>
-        <p>The Artificial Intelligence Institute of UofSC (AIISC)</p>
-        <p>2022 - Present</p>
+        <p><a href="https://aiisc.ai/">The Artificial Intelligence Institute of UofSC (AIISC)</a> </p>
+        <p>Aug 2022 - Present</p>
+      </li>
+      <li>
+        <h3>R&D Intern</h3>
+        <p><a href="https://www.unilever.com/ucl-bd/">Unilever Bangladesh Limited</a></p> 
+        <p>Oct 2021 - Jan 2022</p>
       </li>
     </ul>
   </div>
