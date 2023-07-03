@@ -11,9 +11,7 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-
-  - title: "submission"
-    url: /submission/  
+    
         
   - title: "Blog Posts"
     url: /year-archive/
