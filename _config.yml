@@ -182,8 +182,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   submission:
-  output: true
-  permalink: /:collection/:path/  
+    output: true
+    permalink: /:collection/:path/  
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -230,7 +230,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _submission
   - scope:
       path: ""
       type: submission
