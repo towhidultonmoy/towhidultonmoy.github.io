@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "The Troubling Emergence of
+Hallucination in Large Language Models - An Extensive Definition, Quantification, and
+Prescriptive Remediations"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+#permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'Vipula Rawte, SWAGATA CHAKRABORTY, Agnibh Pathak, ANUBHAV SARKAR, <i><b>S.M Towhidul
+Islam Tonmoy</b></i>, Aman Chadha, Amit P. Sheth, Amitava Das'
+date: 2023-11-01
+venue: 'EMNLP'
+processing: 'True'
 ---
-This paper is about the number 2. The number 3 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
