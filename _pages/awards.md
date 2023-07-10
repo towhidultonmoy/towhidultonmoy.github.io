@@ -7,16 +7,18 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-<a href="https://drive.google.com/file/d/1KuN1KpZsPCCgvN_ywZSTrMcWeEIJpOhD/view?usp=sharing" style="color: lightblue; text-decoration: none;">View CV Here</a>
-
-<!-- [View CV Here](https://drive.google.com/file/d/1KuN1KpZsPCCgvN_ywZSTrMcWeEIJpOhD/view?usp=sharing) -->
-
-
+{<!DOCTYPE html>
 <html>
 <head>
   <title>Achievements in Competitions</title>
   <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <style>
+    #chart {
+      width: 600px;
+      height: 400px;
+      margin: 0 auto;
+    }
+  </style>
 </head>
 <body>
   <div id="chart"></div>
@@ -55,4 +57,3 @@ redirect_from:
   </script>
 </body>
 </html>
-
