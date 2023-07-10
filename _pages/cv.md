@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 [View CV Here](https://drive.google.com/file/d/1KuN1KpZsPCCgvN_ywZSTrMcWeEIJpOhD/view?usp=sharing)
 
+
+
 Education
 ======
 * B.S. in Electrical & Electronic Engineering from Islamic University Of Technology, Gazipur, Dhaka. (2018 - 2022)
@@ -51,7 +53,7 @@ Skills
 
 Certifications
 ======
-* DataCamp: <a href="https://www.datacamp.com/tracks/data-scientist-with-python">“Data Scientist with Python”</a> career track. It consisted of 23 courses, 6 projects, and 3 skill assessments
+* DataCamp: <a href="https://www.datacamp.com/tracks/data-scientist-with-python" style="color: blue; text-decoration: none;">“Data Scientist with Python”</a> career track. It consisted of 23 courses, 6 projects, and 3 skill assessments
 
 <!-- Publications
 ======
