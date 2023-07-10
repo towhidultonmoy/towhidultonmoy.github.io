@@ -60,7 +60,7 @@ Certifications
 Humanitarian Initiatives
 ======
 * <a href="https://www.youtube.com/watch?v=2eKXh9XbTl8" style="color: lightblue; text-decoration: none;">Remedi: A complete healthcare solution</a>
-  * <p>During the COVID-19 crisis, our country witnessed patients facing difficulties as they moved from one hospital to another, searching for available treatment facilities. Lack of information about hospitals' requirements and the need for past documents added to their struggles. Additionally, doctors were at risk of contracting the virus due to patients concealing their COVID-19 illness.</p> 
+   <p>During the COVID-19 crisis, our country witnessed patients facing difficulties as they moved from one hospital to another, searching for available treatment facilities. Lack of information about hospitals' requirements and the need for past documents added to their struggles. Additionally, doctors were at risk of contracting the virus due to patients concealing their COVID-19 illness.</p> 
   <p>To tackle these challenges, we developed an messenger chatbot equipped with essential features. It provided a list of nearby hospitals, information on available facilities, and the necessary documents for treatment. The app also maintained a central database of COVID-19 patients, implemented a visual identifier, and offered emergency assistance through an AI-powered bot.</p>
   <p>Our aim was to revolutionize the healthcare experience during the crisis, easing the burden on patients and healthcare professionals. By leveraging technology, we strived to identify the most suitable hospitals based on patients' needs, contributing to a more efficient healthcare system.</p>
 
