@@ -47,10 +47,10 @@ author_profile: true
   </style>
 </head>
 <body>
-  <h1><a href="/awards_desc/">My Achievements</a></h1>
+  <h1>My Achievements</h1>
   <div class="container">
     <div class="item">
-      <h2>ML Hackathons</h2>
+      <h2><a href="/awards_desc/">ML Hackathons</a></h2>
       <div class="number">10</div>
       <div class="label">Notable achievements</div>
     </div>
