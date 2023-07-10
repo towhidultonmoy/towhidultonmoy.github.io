@@ -12,32 +12,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in Islamic University Of Technology, Gazipur, Dhaka 2012
-<!-- * M.S. in Jekyll, GitHub University, 2014 -->
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* B.S. in Electrical & Electronic Engineering from Islamic University Of Technology, Gazipur, Dhaka. (2018 - 2022)
+* HSC in Science from Notre Dame College, Dhaka. (2015 - 2017)
+* SSC in Science from Comilla Zilla School, Cumilla.  (2011-2015)
 
 Work experience
 ======
-* Applied ML Researcher: Robi Axiata Limited (Sep 2022 - Present)
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Affiliate : Artificial Intelligence Institute,University of South Carolina (Sep 2022 - Present)
+  *  My current research focuses on addressing challenging research problems, such as developing fact verification systems for identifying false information, detecting AI-generated text, and detecting hallucinations in large language models.
+
+
+* Applied ML Researcher : Robi Axiata Limited (Sep 2022 - Present)
+  * Conduct user segmentation and develop customer life cycle management use cases to improve
+  marketing campaigns, customer satisfaction, and retention strategies.
+  * Work with big data management tools and develop data storytelling dashboards to improve data-driven
+solutions, and explore new AI use cases for product and market monitoring.
 
 * Reseacrh & Developement Intern : Unilever Bangladesh Limited (Oct 2021 - Jan 2022)
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  *  Collaborated with cross-functional teams in agile methodology to develop data model solutions
+efficiently.
+  * Created visualizations in Power BI to track product KPIs. Initiated competitor monitoring project and
+integrated a dynamic dashboard into the SharePoint portal to support data-driven decision making for
+business growth.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*  Languages:
+  * Python,SQL, C, Matlab 
 
-Publications
+*  Frameworks
+  *  Apache Spark,Hadoop,Scikit, SciPy, NLTK, SpaCy, TensorFlow, Pytorch, Keras
+
+*  Tools
+  * Latex, Streamlit, Docker, GIT, Tableau, PowerBI, Oracle, Adobe Illustrator
+
+*  Platforms
+  * AWS,CDP
+
+Certifications
+======
+* DataCamp: <a href="https://www.datacamp.com/tracks/data-scientist-with-python">“Data Scientist with Python”</a> career track. It consisted of 23 courses, 6 projects, and 3 skill assessments
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -57,4 +73,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
