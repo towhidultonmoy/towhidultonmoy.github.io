@@ -35,7 +35,7 @@ I am open to collaborate with any research opportunity related to my area of int
     <p>One Q1 journal under review</p>
   </div>
   <div class="counter-card">
-    <h3>Awards</h3>
+    <h3><a href="/awards/">Awards</a></h3>
     <p class="count">7</p>
     <p>I have achieved three awards during my student life. The rest of the awards are in sports</p>
   </div>
