@@ -15,7 +15,7 @@ redirect_from:
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f7f7f7;
+      background-color: ##121212;
       padding: 20px;
     }
 
