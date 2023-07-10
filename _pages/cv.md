@@ -53,7 +53,7 @@ Skills
 
 Certifications
 ======
-* DataCamp: <a href="https://www.datacamp.com/tracks/data-scientist-with-python" style="color: blue; text-decoration: none;">“Data Scientist with Python”</a> career track. It consisted of 23 courses, 6 projects, and 3 skill assessments
+* DataCamp: <a href="https://www.datacamp.com/tracks/data-scientist-with-python" style="color: lightblue; text-decoration: none;">“Data Scientist with Python”</a> career track. It consisted of 23 courses, 6 projects, and 3 skill assessments
 
 <!-- Publications
 ======
