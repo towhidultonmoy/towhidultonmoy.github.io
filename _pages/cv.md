@@ -37,17 +37,17 @@ business growth.
   
 Skills
 ======
-*  Languages:
-  * Python,SQL, C, Matlab 
+*  Languages
+    * Python,SQL, C, Matlab 
 
 *  Frameworks
-  *  Apache Spark,Hadoop,Scikit, SciPy, NLTK, SpaCy, TensorFlow, Pytorch, Keras
+    *  Apache Spark,Hadoop,Scikit, SciPy, NLTK, SpaCy, TensorFlow, Pytorch, Keras
 
 *  Tools
-  * Latex, Streamlit, Docker, GIT, Tableau, PowerBI, Oracle, Adobe Illustrator
+    * Latex, Streamlit, Docker, GIT, Tableau, PowerBI, Oracle, Adobe Illustrator
 
 *  Platforms
-  * AWS,CDP
+    * AWS,CDP
 
 Certifications
 ======
