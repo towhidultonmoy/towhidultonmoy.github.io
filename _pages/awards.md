@@ -7,53 +7,50 @@ redirect_from:
   - /resume
 ---
 
-{<!DOCTYPE html>
+
 <html>
 <head>
-  <title>Achievements in Competitions</title>
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <title>My Achievements</title>
   <style>
-    #chart {
-      width: 600px;
-      height: 400px;
-      margin: 0 auto;
+    /* Add any custom styling you want here */
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .item {
+      width: 300px;
+      height: 300px;
+      border: 1px solid #ccc;
+      margin: 10px;
+      padding: 20px;
+      text-align: center;
     }
   </style>
 </head>
 <body>
-  <div id="chart"></div>
-
-  <script>
-    // Data for ML hackathons, national idea competitions, and robotics competitions
-    var competitions = ['ML Hackathons', 'National Idea Competitions', 'Robotics Competitions'];
-    var wins = [3, 2, 4]; // Number of wins
-
-    // Creating the trace
-    var trace = {
-      x: competitions,
-      y: wins,
-      type: 'bar',
-      marker: {
-        color: ['#FF6F61', '#6B5B95', '#88B04B']
-      }
-    };
-
-    // Creating the data array
-    var data = [trace];
-
-    // Creating the layout
-    var layout = {
-      title: 'Achievements in Competitions',
-      xaxis: {
-        title: 'Competition Type'
-      },
-      yaxis: {
-        title: 'Number of Wins'
-      }
-    };
-
-    // Creating the plot
-    Plotly.newPlot('chart', data, layout);
-  </script>
+  <h1>My Achievements</h1>
+  <div class="container">
+    <div class="item">
+      <h2>ML Hackathons</h2>
+      <img src="path_to_ml_hackathon_visualization.png" alt="ML Hackathons Visualization">
+    </div>
+    <div class="item">
+      <h2>National Idea Competitions</h2>
+      <img src="path_to_national_idea_visualization.png" alt="National Idea Competitions Visualization">
+    </div>
+    <div class="item">
+      <h2>Robotics Competitions</h2>
+      <img src="path_to_robotics_visualization.png" alt="Robotics Competitions Visualization">
+    </div>
+  </div>
 </body>
 </html>
+
