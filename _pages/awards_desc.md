@@ -47,7 +47,7 @@ author_profile: true
   </style>
 </head>
 <body>
-  <h1><a href="/awards_desc/">My Achievements</a></h1>
+  <h1>My Achievements</h1>
   <div class="container">
     <div class="item">
       <h2>ML Hackathons</h2>
