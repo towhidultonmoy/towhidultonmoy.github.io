@@ -15,5 +15,12 @@ author_profile: true
 Challenge,IEEE CS.
 - 8th - Sarcasm detection NLP competition - Organized by Department of Electronics and
 Telecommunication Engineering (ETE), CUET
+-8 th - Computer System Failure Prediction - Organized by 2021 Global Student
+Challenge,IEEE CS.
+- Top 1% worldwide 30 Days of ML - Organized by Kaggle
+- Top 2 % worldwide - Tabular Playground Series: Sep 2021 - Organized by Kaggle
+- Top 7 % worldwide - Tabular Playground Series: Oct 2021 - Organized by Kaggle
+- Top 10 % worldwide - Netflix Appetency: Identify consumer willing to subscribe - Organized by Prevision.io 
+
 
 
