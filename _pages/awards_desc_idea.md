@@ -130,7 +130,7 @@ author_profile: true
     </div>
     <h1> National Essay Writing Competition 2020</h1>
     <p><span class="label">Position:</span> <span class="value">Top 20</span></p>
-    <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Writing competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
     <p><span class="label">Competition details:</span> Top 20 under two categories "Strengthening Healthcare System" & " Supporting the SMEs" organized by Youth Opportunities & IPDC Finance</p>
   </div>
@@ -153,9 +153,20 @@ author_profile: true
     </div>
     <h1>  Graphics Poster Design </h1>
     <p><span class="label">Position:</span> <span class="value">4th</span></p>
-    <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Poster design competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
     <p><span class="label">Competition details:</span> It was organized by IEEE Computer Society BRACU Student Branch Student Branch</p>
+  </div>
+
+  <div class="competition-details">
+    <div class="image-container">
+      <img src="/images/mind.jpg" alt="Image Description">
+    </div>
+    <h1>  MindExperia-Online Idea Contest </h1>
+    <p><span class="label">Position:</span> <span class="value">5th</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Poster design competition</span></p>
+    <p><span class="label">Competition status:</span> <span class="value">National</span></p>
+    <p><span class="label">Competition details:</span> It was organized by BUP ROBOTICS CLUB. Participants were tasked with identifying a post-COVID-19 problem and providing a solution using one of the following technologies: Machine Learning, IoT, Automations and Robotics, Data-driven technologies, Blockchain, Telemedicine, Software and Applications, Biomedical Technologies, and Virtual Presence.</p>
   </div>
 
 
