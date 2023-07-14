@@ -45,7 +45,6 @@ author_profile: true
 </head>
 
 <body>
-  <h1>Bikiron:Sustainable Energy Innovation Challenge</h1>
   <p>Organized by Sustainable and Renewable Energy Development Authority (SREDA), in cooperation with Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) · Dec 2021</p>
   <div class="competition-details">
     <p><span class="label">Position:</span> <span class="value">3rd</span></p>
