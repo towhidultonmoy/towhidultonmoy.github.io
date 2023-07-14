@@ -104,7 +104,7 @@ author_profile: true
 
 <div class="competition-details">
     <div class="image-container">
-      <img src="/images/idea1.jpg" alt="Image Description">
+      <img src="/images/idea1.png" alt="Image Description">
     </div>
     <h1>IDEA Innovation</h1>
     <p><span class="label">Position:</span> <span class="value">2nd</span></p>
