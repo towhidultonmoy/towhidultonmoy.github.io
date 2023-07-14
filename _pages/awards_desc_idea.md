@@ -20,7 +20,7 @@ author_profile: true
 
     h1 {
       text-align: center;
-      color: #333;
+
     }
 
     p {
