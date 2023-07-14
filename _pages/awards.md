@@ -50,17 +50,17 @@ author_profile: true
   <h1>My Achievements</h1>
   <div class="container">
     <div class="item">
-      <h2><a href="/awards_desc/">ML Hackathons</a></h2>
+      <h2><a href="/awards_desc_ml/">ML Hackathons</a></h2>
       <div class="number">10</div>
       <div class="label">Notable achievements</div>
     </div>
     <div class="item">
-      <h2>National Idea Competitions</h2>
+      <h2><a href="/awards_desc_idea/">National Idea Competitions</a></h2>
       <div class="number">5</div>
       <div class="label">Standout accomplishments</div>
     </div>
     <div class="item">
-      <h2>Robotics Competitions</h2>
+      <h2><a href="/awards_desc_robotics/">Robotics Competitions</a></h2>
       <div class="number">3</div>
       <div class="label">Memorable successes</div>
     </div>
