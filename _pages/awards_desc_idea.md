@@ -126,13 +126,13 @@ author_profile: true
 
 <div class="competition-details">
     <div class="image-container">
-      <img src="/images/covid.jpg" alt="Image Description">
+      <img src="/images/ipdc.jpg" alt="Image Description">
     </div>
-    <h1> Online COVID-19 Solution Contest </h1>
-    <p><span class="label">Position:</span> <span class="value">Champion</span></p>
+    <h1> National Essay Writing Competition 2020</h1>
+    <p><span class="label">Position:</span> <span class="value">Top 20</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
-    <p><span class="label">Competition details:</span> IEEE Computer Society Bangladesh Chapter along with IEEE CS BDC HAC & IEEE CS BDC Team SPARK called for a project and idea contest "Online Covid-19 Solution Contest" to resolve the various problems that can be encountered in this COVID-19 epidemic situation.</p>
+    <p><span class="label">Competition details:</span> Top 20 under two categories "Strengthening Healthcare System" & " Supporting the SMEs" organized by Youth Opportunities & IPDC Finance</p>
   </div>
 
 
@@ -145,6 +145,17 @@ author_profile: true
     <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
     <p><span class="label">Competition details:</span> It was organized by IEEE Computer Society RUET SBC & IEEE Ruet Student Branch</p>
+  </div>
+
+<div class="competition-details">
+    <div class="image-container">
+      <img src="/images/graphics.jpg" alt="Image Description">
+    </div>
+    <h1>  Graphics Poster Design </h1>
+    <p><span class="label">Position:</span> <span class="value">4th</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
+    <p><span class="label">Competition status:</span> <span class="value">National</span></p>
+    <p><span class="label">Competition details:</span> It was organized by IEEE Computer Society BRACU Student Branch Student Branch</p>
   </div>
 
 
