@@ -53,7 +53,7 @@ author_profile: true
 <body>
   <div class="competition-details">
     <div class="image-container">
-      <img src="bikiron.jpg" alt="Image Description" width="200">
+      <img src="/images/bikiron.jpg" alt="Image Description" width="200">
     </div>
     <p><span class="label">Position:</span> <span class="value">3rd</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Energy hackathon</span></p>
