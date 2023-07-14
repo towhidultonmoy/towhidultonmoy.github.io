@@ -7,8 +7,6 @@ author_profile: true
 #   - /resume
 ---
 
-
-<!DOCTYPE html>
 <html>
 
 <head>
@@ -21,6 +19,8 @@ author_profile: true
     }
 
     h1 {
+      text-align: center;
+      color: #333;
     }
 
     p {
@@ -30,9 +30,13 @@ author_profile: true
     .competition-details {
       margin-top: 20px;
       border: 1px solid #ccc;
-      padding: 10px;
+      padding: 20px;
       border-radius: 5px;
-      overflow: hidden; /* Add overflow property to contain floated image */
+      background-color: #f5f5f5;
+      box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+      max-width: 500px;
+      margin-left: auto;
+      margin-right: auto;
     }
 
     .label {
@@ -44,8 +48,13 @@ author_profile: true
     }
 
     .image-container {
-      float: right; /* Float the image to the right */
-      margin-left: 10px;
+      float: right;
+      margin-left: 20px;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
     }
   </style>
 </head>
@@ -53,8 +62,9 @@ author_profile: true
 <body>
   <div class="competition-details">
     <div class="image-container">
-      <img src="/images/bikiron.jpg" alt="Image Description" width="200">
+      <img src="/images/bikiron.jpg" alt="Image Description">
     </div>
+    <h1>Bikiron:Sustainable Energy Innovation Challenge</h1>
     <p><span class="label">Position:</span> <span class="value">3rd</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Energy hackathon</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
@@ -63,6 +73,7 @@ author_profile: true
 </body>
 
 </html>
+
 
 
 
