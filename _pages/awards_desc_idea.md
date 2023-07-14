@@ -8,12 +8,12 @@ author_profile: true
 ---
 
 
+<!DOCTYPE html>
 <html>
 
 <head>
   <meta charset="UTF-8">
-  <!-- <title>Bikiron:Sustainable Energy Innovation Challenge</title> -->
-  <ul><li> Bikiron:Sustainable Energy Innovation Challenge - Organized by Sustainable and Renewable Energy Development Authority (SREDA), in cooperation with Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) · Dec 2021 </li> </ul>
+  <title>Bullet Points Example</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -32,6 +32,7 @@ author_profile: true
       border: 1px solid #ccc;
       padding: 10px;
       border-radius: 5px;
+      overflow: hidden; /* Add overflow property to contain floated image */
     }
 
     .label {
@@ -41,11 +42,19 @@ author_profile: true
     .value {
       margin-left: 10px;
     }
+
+    .image-container {
+      float: right; /* Float the image to the right */
+      margin-left: 10px;
+    }
   </style>
 </head>
 
 <body>
   <div class="competition-details">
+    <div class="image-container">
+      <img src="bikiron.jpg" alt="Image Description" width="200">
+    </div>
     <p><span class="label">Position:</span> <span class="value">3rd</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Energy hackathon</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
