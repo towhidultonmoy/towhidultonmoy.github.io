@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Memorable Triumphs in Machine Learning Competitions"
-permalink: /awards_desc/
+permalink: /awards_desc_idea/
 author_profile: true
 # redirect_from:
 #   - /resume

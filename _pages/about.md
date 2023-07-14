@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "S.M Towhidul Islam Tonmoy"
+#title: "S.M Towhidul Islam Tonmoy"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
