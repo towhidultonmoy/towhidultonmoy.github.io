@@ -7,12 +7,61 @@ author_profile: true
 #   - /resume
 ---
 
-- Bikiron:Sustainable Energy Innovation Challenge -Sustainable and Renewable Energy Development Authority (SREDA), in cooperation with Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) 
-Position: 3rd
-Competition type: Energy hackathon
-Competition status: National
-- Bizmaestros
-- Battle of brains
+
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Bikiron:Sustainable Energy Innovation Challenge</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
+
+    h1 {
+      color: #333;
+    }
+
+    p {
+      margin-bottom: 10px;
+    }
+
+    .competition-details {
+      margin-top: 20px;
+      border: 1px solid #ccc;
+      padding: 10px;
+    }
+
+    .label {
+      font-weight: bold;
+      color: #666;
+    }
+
+    .value {
+      margin-left: 10px;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Bikiron:Sustainable Energy Innovation Challenge</h1>
+  <p>Issued by Sustainable and Renewable Energy Development Authority (SREDA), in cooperation with Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) · Dec 2021</p>
+  <div class="competition-details">
+    <p><span class="label">Position:</span> <span class="value">3rd</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Energy hackathon</span></p>
+    <p><span class="label">Competition status:</span> <span class="value">National</span></p>
+    <p><span class="label">Competition details:</span> The goal of this competition was to bring forth and nurture innovative ideas involving affordable, energy-efficient, and renewable energy-related technologies.</p>
+  </div>
+</body>
+
+</html>
+
+
+<!--  
+- 3rd - Bikiron:Sustainable Energy Innovation Challenge -Organized by Sustainable and Renewable Energy Development Authority (SREDA), in cooperation with Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) 
+- SemiFinalist- Bizmaestros 2021 - Unilever Bangladesh Limited
+- Battle of brains 2020 - Green University Bangladesh
 - Art on article
 - Idea innovation 
 - Startkoro
@@ -21,7 +70,7 @@ Competition status: National
 - Online covid19 solution contest
 - Call for nation
 - University day 2020
- 
+  -->
 
 
 
