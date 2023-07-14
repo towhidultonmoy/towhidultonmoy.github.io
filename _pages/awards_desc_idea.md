@@ -13,7 +13,7 @@ author_profile: true
 <head>
   <meta charset="UTF-8">
   <!-- <title>Bikiron:Sustainable Energy Innovation Challenge</title> -->
-  <ul><li> Bikiron:Sustainable Energy Innovation Challenge</li> </ul>
+  <ul><li> Bikiron:Sustainable Energy Innovation Challenge - Organized by Sustainable and Renewable Energy Development Authority (SREDA), in cooperation with Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) · Dec 2021 </li> </ul>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -45,7 +45,6 @@ author_profile: true
 </head>
 
 <body>
-  <p>Organized by Sustainable and Renewable Energy Development Authority (SREDA), in cooperation with Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) · Dec 2021</p>
   <div class="competition-details">
     <p><span class="label">Position:</span> <span class="value">3rd</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Energy hackathon</span></p>
