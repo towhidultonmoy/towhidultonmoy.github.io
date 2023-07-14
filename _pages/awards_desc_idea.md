@@ -20,7 +20,6 @@ author_profile: true
     }
 
     h1 {
-      color: #333;
     }
 
     p {
@@ -31,11 +30,11 @@ author_profile: true
       margin-top: 20px;
       border: 1px solid #ccc;
       padding: 10px;
+      border-radius: 5px;
     }
 
     .label {
       font-weight: bold;
-      color: #666;
     }
 
     .value {
@@ -56,6 +55,7 @@ author_profile: true
 </body>
 
 </html>
+
 
 
 <!--  
