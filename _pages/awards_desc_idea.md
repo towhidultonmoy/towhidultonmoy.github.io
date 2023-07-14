@@ -69,6 +69,18 @@ author_profile: true
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
     <p><span class="label">Competition details:</span> The goal of this competition was to bring forth and nurture innovative ideas involving affordable, energy-efficient, and renewable energy-related technologies.</p>
   </div>
+
+<div class="competition-details">
+    <div class="image-container">
+      <img src="/images/biz.jpg" alt="Image Description">
+    </div>
+    <h1>BizMaestros 2021</h1>
+    <p><span class="label">Position:</span> <span class="value">Semi-Finalist</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Business Competition</span></p>
+    <p><span class="label">Competition status:</span> <span class="value">National</span></p>
+    <p><span class="label">Competition details:</span> BizMaestros is Unilever's prestigious flagship business competition in the country. It aims to bridge the gap between professionals and academia while developing skilled human resources for the economy and contributing to Sustainable Development Goals (SDGs).</p>
+  </div>
+
 </body>
 
 </html>
