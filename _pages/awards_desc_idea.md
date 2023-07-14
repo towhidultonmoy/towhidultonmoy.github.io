@@ -81,6 +81,27 @@ author_profile: true
     <p><span class="label">Competition details:</span> BizMaestros is Unilever's prestigious flagship business competition in the country. It aims to bridge the gap between professionals and academia while developing skilled human resources for the economy and contributing to Sustainable Development Goals (SDGs).</p>
   </div>
 
+  <div class="competition-details">
+    <div class="image-container">
+      <img src="/images/brains.jpg" alt="Image Description">
+    </div>
+    <h1>Battle of Brains 2020</h1>
+    <p><span class="label">Position:</span> <span class="value">10th</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Inter-university quiz competition</span></p>
+    <p><span class="label">Competition status:</span> <span class="value">National</span></p>
+    <p><span class="label">Competition details:</span> Green University Bangladesh had arranged an inter-university quiz competition titled "Battle of Brains" where participants from different universities of Bangladesh participated in the event.</p>
+  </div>
+    <div class="competition-details">
+    <div class="image-container">
+      <img src="/images/article.jpg" alt="Image Description">
+    </div>
+    <h1>Art On Article</h1>
+    <p><span class="label">Position:</span> <span class="value">3rd</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Digital Art competition</span></p>
+    <p><span class="label">Competition status:</span> <span class="value">National</span></p>
+    <p><span class="label">Competition details:</span> As part of the PRO-LINGUIST: BATTLE OF LINGUISTIC WIZARDS organized by the International English Language Club, the "Art On Article" segment allowed contestants to showcase their creativity. Contestants were provided with an article and tasked with creating illustrations that reflected their imaginative interpretations</p>
+  </div>
+
 </body>
 
 </html>
