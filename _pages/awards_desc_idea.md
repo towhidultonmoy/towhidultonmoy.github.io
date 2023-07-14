@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Memorable Triumphs in Machine Learning Competitions"
+title: "Memorable Triumphs in Hackathons"
 permalink: /awards_desc_idea/
 author_profile: true
 # redirect_from:
@@ -112,6 +112,41 @@ author_profile: true
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
     <p><span class="label">Competition details:</span> As part of the Creativation'20, organized by IEEE Computer Society Student Branch Chapter IUB, the theme of the competition was  "Facing a Pandemic with Open Ideas via Innovation". The goal was to create a significant impact and navigate through the pandemic by generating fresh ideas and implementing them effectively.</p>
   </div>
+
+  <div class="competition-details">
+    <div class="image-container">
+      <img src="/images/covid.jpg" alt="Image Description">
+    </div>
+    <h1> Online COVID-19 Solution Contest </h1>
+    <p><span class="label">Position:</span> <span class="value">Champion</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
+    <p><span class="label">Competition status:</span> <span class="value">National</span></p>
+    <p><span class="label">Competition details:</span> IEEE Computer Society Bangladesh Chapter along with IEEE CS BDC HAC & IEEE CS BDC Team SPARK called for a project and idea contest "Online Covid-19 Solution Contest" to resolve the various problems that can be encountered in this COVID-19 epidemic situation.</p>
+  </div>
+
+<div class="competition-details">
+    <div class="image-container">
+      <img src="/images/covid.jpg" alt="Image Description">
+    </div>
+    <h1> Online COVID-19 Solution Contest </h1>
+    <p><span class="label">Position:</span> <span class="value">Champion</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
+    <p><span class="label">Competition status:</span> <span class="value">National</span></p>
+    <p><span class="label">Competition details:</span> IEEE Computer Society Bangladesh Chapter along with IEEE CS BDC HAC & IEEE CS BDC Team SPARK called for a project and idea contest "Online Covid-19 Solution Contest" to resolve the various problems that can be encountered in this COVID-19 epidemic situation.</p>
+  </div>
+
+
+  <div class="competition-details">
+    <div class="image-container">
+      <img src="/images/university.jpg" alt="Image Description">
+    </div>
+    <h1> University Day 2020, Innovative Project Idea Contest </h1>
+    <p><span class="label">Position:</span> <span class="value">2nd</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
+    <p><span class="label">Competition status:</span> <span class="value">National</span></p>
+    <p><span class="label">Competition details:</span> It was organized by IEEE Computer Society RUET SBC & IEEE Ruet Student Branch</p>
+  </div>
+
 
 </body>
 
