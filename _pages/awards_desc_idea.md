@@ -102,6 +102,17 @@ author_profile: true
     <p><span class="label">Competition details:</span> As part of the PRO-LINGUIST: BATTLE OF LINGUISTIC WIZARDS organized by the International English Language Club, the "Art On Article" segment allowed contestants to showcase their creativity. Contestants were provided with an article and tasked with creating illustrations that reflected their imaginative interpretations</p>
   </div>
 
+<div class="competition-details">
+    <div class="image-container">
+      <img src="/images/idea1.jpg" alt="Image Description">
+    </div>
+    <h1>IDEA Innovation</h1>
+    <p><span class="label">Position:</span> <span class="value">2nd</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
+    <p><span class="label">Competition status:</span> <span class="value">National</span></p>
+    <p><span class="label">Competition details:</span> As part of the Creativation'20, organized by IEEE Computer Society Student Branch Chapter IUB, the theme of the competition was  "Facing a Pandemic with Open Ideas via Innovation". The goal was to create a significant impact and navigate through the pandemic by generating fresh ideas and implementing them effectively.</p>
+  </div>
+
 </body>
 
 </html>
