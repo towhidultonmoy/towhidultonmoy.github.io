@@ -20,6 +20,8 @@ author_profile: true
     }
 
     h1 {
+      list-style-type: disc;
+      text-transform: lowercase;
     }
 
     p {
