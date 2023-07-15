@@ -107,6 +107,22 @@ author_profile: true
     <p><span class="label">Competition details:</span> Robotics Design Challenge organized by Dhaka College Science Club( DCSC) titling " Deus Ex Machina 1.0".
 </p>
   </div>  
+
+   <div class="competition-details">
+    <div class="image-container">
+      <img src="/images/marsrover1.jpg" alt="Photo 1">
+      <img src="/images/marsrover2.jpg" alt="Photo 2">
+    </div>
+    <h1>  European Rover Challenge 2019 </h1>
+    <p><span class="label">Position:</span> <span class="value">15th Worldwide, 1st in Asia</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Martian robots competition </span></p>
+    <p><span class="label">Competition status:</span> <span class="value">Interational</span></p>
+    <p><span class="label">Competition details:</span> IUT Mars Rover Team, "Team Avijatrik" had secured 15th position in European Rover Challenge 2019.
+We had stood 1st among all Asian teams leaving behind teams from India and Sri Lanka making us the 1st among the teams that participated from Bangaldesh.
+</p>
+  </div>  
+
 </body>
+
 
 </html>
