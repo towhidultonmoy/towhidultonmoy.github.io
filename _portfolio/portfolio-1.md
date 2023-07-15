@@ -1,10 +1,11 @@
 ---
 title: "2wheelance: An immediate medical relief"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/wheelance.jpg'>"
+excerpt: "Introducing "2wheelance": A Portable Ambulance Solution to Address Pandemic Challenges Faced by Patients and Ride-Sharing Providers.<br/><img src='/images/wheelance.JPG'>"
 collection: portfolio
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=nlUictFYwrc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlUictFYwrc" frameborder="0" allowfullscreen></iframe>
+
 
 In this pandemic crisis,   it has been seen that many patients are facing trouble going to hospitals. They are not getting an ambulance facility in time. On the other hand, most of the operations of the ride-sharing companies are postponed. Riders can not go out on the road, thus they are facing problems fulfilling their needs. They are not getting any money & are unable to fulfill their demands. They are starving for lack of income. Sharing rides were their only source of income.
 
