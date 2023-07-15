@@ -30,28 +30,27 @@ I am open to collaborate with any research opportunity related to my area of int
 ## Undergraduate Projects, Journals & Papers
 
 <div class="counter-container">
-  <a href="/publications/" class="counter-card">
-    <h3>Papers</h3>
+  <div class="counter-card">
+    <h3><a href="/publications/">Papers</a></h3>
     <p class="count">4</p>
     <p>Two papers under review</p>
-  </a>
-  <a href="/portfolio/" class="counter-card">
-    <h3>Projects</h3>
+  </div>
+  <div class="counter-card">
+    <h3><a href="/portfolio/">Projects</a></h3>
     <p class="count">5</p>
     <p>Eight undergraduate projects completed</p>
-  </a>
-  <a href="/publications/" class="counter-card">
-    <h3>Journals</h3> 
+  </div>
+  <div class="counter-card">
+    <h3><a href="/publications/">Journals</a></h3> 
     <p class="count">1</p>
     <p>One Q1 journal under review</p>
-  </a>
-  <a href="/awards/" class="counter-card">
-    <h3>Achievements</h3>
+  </div>
+  <div class="counter-card">
+    <h3><a href="/awards/">Achievements</a></h3>
     <p class="count">26</p>
     <p>I have achieved three awards during my student life. The rest of the awards are in sports</p>
-  </a>
+  </div>
 </div>
-
 
 <style>
 .counter-container {
