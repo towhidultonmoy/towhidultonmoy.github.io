@@ -180,29 +180,10 @@ author_profile: true
     <p><span class="label">Competition type:</span> <span class="value">Poster design competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
     <p><span class="label">Competition details:</span> It was organized by BUP ROBOTICS CLUB. Participants were tasked with identifying a post-COVID-19 problem and providing a solution using one of the following technologies: Machine Learning, IoT, Automations and Robotics, Data-driven technologies, Blockchain, Telemedicine, Software and Applications, Biomedical Technologies, and Virtual Presence.</p>
-  </div>
+</div>
 
 
 </body>
 
 </html>
-
-
-
-
-<!--  
-- 3rd - Bikiron:Sustainable Energy Innovation Challenge -Organized by Sustainable and Renewable Energy Development Authority (SREDA), in cooperation with Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) 
-- SemiFinalist- Bizmaestros 2021 - Unilever Bangladesh Limited
-- Battle of brains 2020 - Green University Bangladesh
-- Art on article
-- Idea innovation 
-- Startkoro
-- Graphics poster design
-- National eassay writing competition 
-- Online covid19 solution contest
-- Call for nation
-- University day 2020
-  -->
-
-
 
