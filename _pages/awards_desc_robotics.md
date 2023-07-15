@@ -81,6 +81,31 @@ author_profile: true
     <p><span class="label">Competition details:</span> Soccer Wheels, a tournament for manually controlled ground-wheeled robots to compete in scoring goals with a ball, was held as part of the annual technology festival "NDITC_init 2019," organized by the Notre Dame Information Technology Club (NDITC).
 </p>
   </div>
+
+ <div class="competition-details">
+    <div class="image-container">
+      <img src="/images/robotdesign1.jpg" alt="Photo 1">
+    </div>
+    <h1> Robotics Design Challenge </h1>
+    <p><span class="label">Position:</span> <span class="value">Champion</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">CAD design</span></p>
+    <p><span class="label">Competition status:</span> <span class="value">National</span></p>
+    <p><span class="label">Competition details:</span> Robotics Design Challenge organized by Dhaka College Science Club( DCSC) titling " Deus Ex Machina 1.0".
+</p>
+  </div> 
+
+  <div class="competition-details">
+    <div class="image-container">
+      <img src="/images/robotdesign1.jpg" alt="Photo 1">
+      <img src="/images/robotdesign2.jpg" alt="Photo 2">
+    </div>
+    <h1> Robotics Design Challenge </h1>
+    <p><span class="label">Position:</span> <span class="value">Champion</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">CAD design</span></p>
+    <p><span class="label">Competition status:</span> <span class="value">National</span></p>
+    <p><span class="label">Competition details:</span> Robotics Design Challenge organized by Dhaka College Science Club( DCSC) titling " Deus Ex Machina 1.0".
+</p>
+  </div>  
 </body>
 
 </html>
