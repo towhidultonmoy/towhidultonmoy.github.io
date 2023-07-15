@@ -113,7 +113,7 @@ author_profile: true
 <div class="competition-details">
     <div class="image-container">
       <img src="/images/idea1.png" alt="Image Description">
-      <img src="/images/idea2.png" alt="Image Description2">
+      <img src="/images/idea2.jpg" alt="Image Description2">
     </div>
     
 <h1><a href="https://www.facebook.com/photo?fbid=634883640451845&set=pcb.634883790451830" style="color: lightblue; text-decoration: none;">IDEA Innovation</a></h1>
@@ -162,7 +162,7 @@ author_profile: true
 <div class="competition-details">
     <div class="image-container">
       <img src="/images/graphics.jpg" alt="Image Description">
-      <img src="/images/graphics1.jpg" alt="Image Description1">
+      <img src="/images/graphics1.JPG" alt="Image Description1">
     </div>
     <h1><a href="https://www.facebook.com/IEEECSBRACUSBC.CCUC/photos/a.100678734968936/121138452922964/" style="color: lightblue; text-decoration: none;">Graphics Poster Design</a>   </h1>
     <p><span class="label">Position:</span> <span class="value">4th</span></p>
@@ -174,7 +174,6 @@ author_profile: true
   <div class="competition-details">
     <div class="image-container">
       <img src="/images/mind.jpg" alt="Image Description">
-      <img src="/images/mind1.jpg" alt="Image Description1">
     </div>
     <h1><h1><a href="https://www.facebook.com/events/2584083811844099/2584083911844089/" style="color: lightblue; text-decoration: none;">MindExperia-Online Idea Contest</a>   </h1>
     <p><span class="label">Position:</span> <span class="value">5th</span></p>
