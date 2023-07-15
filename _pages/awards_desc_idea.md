@@ -47,12 +47,14 @@ author_profile: true
 
     .image-container {
       display: flex;
-      justify-content: center; /* Change to center to align images in the center */
+      justify-content: center;
       margin-bottom: 10px;
+      flex-wrap: wrap; /* Add flex-wrap property to wrap images */
     }
 
     .image-container img {
-      max-width: 100%; /* Set max-width to 100% to take full width of container */
+      max-width: calc(50% - 10px); /* Adjust max-width and margin between images */
+      margin: 5px; /* Add margin between images */
       height: auto;
     }
   </style>
