@@ -38,7 +38,35 @@ efficiently.
   * Created visualizations in Power BI to track product KPIs. Initiated competitor monitoring project and
 integrated a dynamic dashboard into the SharePoint portal to support data-driven decision making for
 business growth.
-  
+
+Leadership experience
+======
+* Chair : IEEE Robotics & Automation Society IUT Student Branch Chapter (May 2021 - May 2022)
+  *  Got featured in “The prestige magazine” where I shared my experience in the “club of the month” section.
+  * Affiliated with different university clubs and organized various workshops and sessions for the sustainable growthof the club.
+  * Arranged intra robotics competition for freshers and sophomore students.
+
+
+* Head Of Administration : IEEE IUT Student Branch (May 2021 - May 2022)
+  * Planned and organized meetings, webinars workshops.
+  * Promoted fellowship among club members.
+  * Guided a team of 30 members in different club activities.
+
+* Team Lead-Electrical System : IUT Mars Rover - Team Avijatrik (Feb 2021 - Feb 2022)
+  * Built robotics systems using ROS and designed 3D structures using Fusion360.
+  * Governed a team of 30 members in designing a ventilator for Covid-19 patients.
+  * Contributed in the electrical system ( Power storage management, motor drives, connection managements ) of the Mars Rover.
+* Founder -Remedi (An online platform delivering authentic information about the Health Affairs of Bangladesh) (May 2020 - May 2021 )
+  * Built a chatbot-based platform to facilitate the users in getting necessary healthcare information.
+  * Connected with medical professionals for fetching valid healthcare information.
+  * Lead a team of ten members in answering the queries of the users.
+  * Linked with different blood bank group owners to provide immediate blood request of the users.
+
+* General Secretary -IEEE Robotics & Automation Society IUT Student Branch Chapter (Jan 2020 - Jan 2021)
+* Senior Technical Officer -IEEE IUT Student Branch (Jan 2020 - Jan 2021)
+* Senior Member- Electrical System -IUT Mars Rover - Team Avijatrik (Jan 2020 - Jan 2021)
+* Junior Technical Officer - IEEE IUT Student Branch (Jan 2020 - Jan 2021)
+
 Skills
 ======
 *  Languages
