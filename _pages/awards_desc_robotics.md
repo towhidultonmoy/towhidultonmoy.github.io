@@ -6,8 +6,6 @@ author_profile: true
 # redirect_from:
 #   - /resume
 ---
-<html>
-
 <head>
   <meta charset="UTF-8">
   <title>Bullet Points Example</title>
@@ -31,7 +29,7 @@ author_profile: true
       padding: 20px;
       border-radius: 5px;
       box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
-      max-width: 500px;
+      max-width: 800px; /* Adjust the max-width value as desired */
       margin-left: auto;
       margin-right: auto;
     }
