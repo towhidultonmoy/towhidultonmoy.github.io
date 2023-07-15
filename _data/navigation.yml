@@ -9,11 +9,13 @@ main:
   # - title: "Honors & Awards"
   #   url: /teaching/
   
-  - title: "Achievements"
-    url: /awards/        
+       
     
   - title: "Portfolio"
     url: /portfolio/
+
+  - title: "Achievements"
+    url: /awards/ 
     
         
   # - title: "Blog Posts"
