@@ -183,8 +183,3 @@ author_profile: true
     </div>
 
 
-
-</body>
-
-</html>
-
