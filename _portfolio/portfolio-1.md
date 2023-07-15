@@ -1,6 +1,6 @@
 ---
 title: "2wheelance: An immediate medical relief"
-excerpt: "Introducing "2wheelance": A Portable Ambulance Solution to Address Pandemic Challenges Faced by Patients and Ride-Sharing Providers.<br/><img src='/images/wheelance.JPG'>"
+excerpt: "Introducing '2wheelance': A Portable Ambulance Solution to Address Pandemic Challenges Faced by Patients and Ride-Sharing Providers.<br/><img src='/images/wheelance.JPG'>"
 collection: portfolio
 ---
 
