@@ -54,7 +54,7 @@ author_profile: true
 
     .image-container img {
       max-width: calc(50% - 10px); /* Adjust max-width and margin between images */
-      margin: 5px; /* Add margin between images */
+      /*margin: 5px; /* Add margin between images */ /*
       height: auto;
     }
   </style>
@@ -66,7 +66,8 @@ author_profile: true
       <img src="/images/bikiron.jpg" alt="Image Description">
       <img src="/images/bikiron1.jpg" alt="Image Description1">
     </div>
-    <h1>Bikiron:Sustainable Energy Innovation Challenge</h1>
+    
+<h1><a href="https://reeep2.sreda.gov.bd/interventions/energy-efficiency/bikiron-sustainable-energy-challange.html" style="color: lightblue; text-decoration: none;">Bikiron:Sustainable Energy Innovation Challenge</a></h1>
     <p><span class="label">Position:</span> <span class="value">3rd</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Energy hackathon</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
@@ -77,7 +78,8 @@ author_profile: true
     <div class="image-container">
       <img src="/images/biz.jpg" alt="Image Description">
     </div>
-    <h1>BizMaestros 2021</h1>
+    
+<h1><a href="https://www.youtube.com/watch?v=1OMVgO5Aql0" style="color: lightblue; text-decoration: none;">BizMaestros 2021</a></h1>
     <p><span class="label">Position:</span> <span class="value">Semi-Finalist</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Business Competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
@@ -88,7 +90,8 @@ author_profile: true
     <div class="image-container">
       <img src="/images/brains.jpg" alt="Image Description">
     </div>
-    <h1>Battle of Brains 2020</h1>
+    
+<h1><a href="https://www.facebook.com/eee.green/photos/a.104793091099125/192639858981114/" style="color: lightblue; text-decoration: none;">Battle of Brains 2020</a></h1>
     <p><span class="label">Position:</span> <span class="value">10th</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Inter-university quiz competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
@@ -97,8 +100,10 @@ author_profile: true
     <div class="competition-details">
     <div class="image-container">
       <img src="/images/article.jpg" alt="Image Description">
+      <img src="/images/article1.jpg" alt="Image Description1">
     </div>
-    <h1>Art On Article</h1>
+    
+<h1><a href="https://www.facebook.com/towhidul.tonmoy/videos/3156701531087442" style="color: lightblue; text-decoration: none;">Art On Article</a></h1>
     <p><span class="label">Position:</span> <span class="value">3rd</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Digital Art competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
@@ -108,8 +113,10 @@ author_profile: true
 <div class="competition-details">
     <div class="image-container">
       <img src="/images/idea1.png" alt="Image Description">
+      <img src="/images/idea2.png" alt="Image Description2">
     </div>
-    <h1>IDEA Innovation</h1>
+    
+<h1><a href="https://www.facebook.com/photo?fbid=634883640451845&set=pcb.634883790451830" style="color: lightblue; text-decoration: none;">IDEA Innovation</a></h1>
     <p><span class="label">Position:</span> <span class="value">2nd</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
@@ -119,8 +126,10 @@ author_profile: true
   <div class="competition-details">
     <div class="image-container">
       <img src="/images/covid.jpg" alt="Image Description">
+      <img src="/images/covid1.jpg" alt="Image Description1">
     </div>
-    <h1> Online COVID-19 Solution Contest </h1>
+    
+<h1><a href="https://www.facebook.com/ieeeiutsb/photos/a.289567111173710/1897685717028500/" style="color: lightblue; text-decoration: none;">Online COVID-19 Solution Contest</a>  </h1>
     <p><span class="label">Position:</span> <span class="value">Champion</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
@@ -131,7 +140,7 @@ author_profile: true
     <div class="image-container">
       <img src="/images/ipdc.jpg" alt="Image Description">
     </div>
-    <h1> National Essay Writing Competition 2020</h1>
+<h1><a href="https://host.youthop.com/write2fight/?fbclid=IwAR2x4cA43ZjEkUbQqnZvxkOS8p3QnfvTpxOXKPJ3jiC8g6z0oIRILqNDCRo" style="color: lightblue; text-decoration: none;">National Essay Writing Competition 2020</a>   </h1>
     <p><span class="label">Position:</span> <span class="value">Top 20</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Writing competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
@@ -143,7 +152,7 @@ author_profile: true
     <div class="image-container">
       <img src="/images/university.jpg" alt="Image Description">
     </div>
-    <h1> University Day 2020, Innovative Project Idea Contest </h1>
+    <h1><a href="https://www.facebook.com/events/838083779932016/" style="color: lightblue; text-decoration: none;">University Day 2020, Innovative Project Idea Contest</a>  </h1>
     <p><span class="label">Position:</span> <span class="value">2nd</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
@@ -153,8 +162,9 @@ author_profile: true
 <div class="competition-details">
     <div class="image-container">
       <img src="/images/graphics.jpg" alt="Image Description">
+      <img src="/images/graphics1.jpg" alt="Image Description1">
     </div>
-    <h1>  Graphics Poster Design </h1>
+    <h1><a href="https://www.facebook.com/IEEECSBRACUSBC.CCUC/photos/a.100678734968936/121138452922964/" style="color: lightblue; text-decoration: none;">Graphics Poster Design</a>   </h1>
     <p><span class="label">Position:</span> <span class="value">4th</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Poster design competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
@@ -164,8 +174,9 @@ author_profile: true
   <div class="competition-details">
     <div class="image-container">
       <img src="/images/mind.jpg" alt="Image Description">
+      <img src="/images/mind1.jpg" alt="Image Description1">
     </div>
-    <h1>  MindExperia-Online Idea Contest </h1>
+    <h1><h1><a href="https://www.facebook.com/events/2584083811844099/2584083911844089/" style="color: lightblue; text-decoration: none;">MindExperia-Online Idea Contest</a>   </h1>
     <p><span class="label">Position:</span> <span class="value">5th</span></p>
     <p><span class="label">Competition type:</span> <span class="value">Poster design competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
