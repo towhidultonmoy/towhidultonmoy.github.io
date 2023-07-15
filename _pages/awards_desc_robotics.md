@@ -1,26 +1,74 @@
 ---
 layout: archive
-title: "Memorable Triumphs in Machine Learning Competitions"
+title: "Memorable Triumphs in Robotics Competitions"
 permalink: /awards_desc_robotics/
 author_profile: true
 # redirect_from:
 #   - /resume
 ---
+<html>
 
-- Champion - IEEE BigData Cup 2022 -Organized by 2022 IEEE International Conference On Big Data
-- 2nd Place-Techfest Datathon 2021 coding round -Organized by IIT Bombay
-- Top 9% worldwide - chaii - Hindi and Tamil Question Answering -Organized by Google India
-- 5th - Bangla Grammatical Error Detection Challenge. -Organized by Bengali.Ai
-- 6th - Sentiment Analysis of Covid-19 related Tweets -Organized by 2021 Global Student
-Challenge,IEEE CS.
-- 8th - Sarcasm detection NLP competition - Organized by Department of Electronics and
-Telecommunication Engineering (ETE), CUET
--8 th - Computer System Failure Prediction - Organized by 2021 Global Student
-Challenge,IEEE CS.
-- Top 1% worldwide 30 Days of ML - Organized by Kaggle
-- Top 2 % worldwide - Tabular Playground Series: Sep 2021 - Organized by Kaggle
-- Top 7 % worldwide - Tabular Playground Series: Oct 2021 - Organized by Kaggle
-- Top 10 % worldwide - Netflix Appetency: Identify consumer willing to subscribe - Organized by Prevision.io 
+<head>
+  <meta charset="UTF-8">
+  <title>Bullet Points Example</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
 
+    h1 {
+      text-align: center;
+    }
 
+    p {
+      margin-bottom: 10px;
+    }
 
+    .competition-details {
+      margin-top: 20px;
+      border: 1px solid #ccc;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
+      max-width: 500px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .label {
+      font-weight: bold;
+    }
+
+    .value {
+      margin-left: 10px;
+    }
+
+    .image-container {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 10px;
+    }
+
+    .image-container img {
+      max-width: 45%;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="competition-details">
+    <div class="image-container">
+      <img src="/images/cozmo.jpg" alt="Photo 1">
+      <img src="/images/cozmo2.jpg" alt="Photo 2">
+    </div>
+    <h1> Cozmo Clench event, Techfest IIT Bombay</h1>
+    <p><span class="label">Position:</span> <span class="value">Finalist</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Robotics hackathon</span></p>
+    <p><span class="label">Competition status:</span> <span class="value">Interational</span></p>
+    <p><span class="label">Competition details:</span> The participating teams were asked to build a manually controlled gripper bot (wired or wireless) which can grip objects and put them in target zones while overcoming the hurdles in the path with minimum time.
+</p>
+  </div>
+</body>
+
+</html>
