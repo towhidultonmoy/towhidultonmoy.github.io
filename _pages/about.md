@@ -30,22 +30,22 @@ I am open to collaborate with any research opportunity related to my area of int
 ## Undergraduate Projects, Journals & Papers
 
 <div class="counter-container">
-  <div class="counter-card">
+  <div class="counter-card" onclick="redirectToHref('/publications/')">
     <h3><a href="/publications/">Papers</a></h3>
     <p class="count">4</p>
     <p>Two papers under review</p>
   </div>
-  <div class="counter-card">
-    <h3>Projects</h3>
-    <p class="count">3</p>
+  <div class="counter-card" onclick="redirectToHref('/portfolio/')">
+    <h3><a href="/portfolio/">Projects</a></h3>
+    <p class="count">5</p>
     <p>Eight undergraduate projects completed</p>
   </div>
-  <div class="counter-card">
+  <div class="counter-card" onclick="redirectToHref('/publications/')">
     <h3><a href="/publications/">Journals</a></h3> 
     <p class="count">1</p>
     <p>One Q1 journal under review</p>
   </div>
-  <div class="counter-card">
+  <div class="counter-card" onclick="redirectToHref('/awards/')">
     <h3><a href="/awards/">Achievements</a></h3>
     <p class="count">26</p>
     <p>I have achieved three awards during my student life. The rest of the awards are in sports</p>
@@ -58,6 +58,7 @@ I am open to collaborate with any research opportunity related to my area of int
   flex-wrap: wrap;
   justify-content: center;
   gap: 10px;
+  cursor: pointer; /* Add cursor style to indicate it's clickable */
 }
 
 .counter-card {
@@ -95,6 +96,11 @@ p {
   color: #ffffff;
 }
 </style>
+<script>
+function redirectToHref(href) {
+  window.location.href = href;
+}
+</script>
 
 <div class="experience-container">
   <div class="education">
