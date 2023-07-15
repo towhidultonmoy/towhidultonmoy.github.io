@@ -97,7 +97,7 @@ author_profile: true
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
     <p><span class="label">Competition details:</span> Green University Bangladesh had arranged an inter-university quiz competition titled "Battle of Brains" where participants from different universities of Bangladesh participated in the event.</p>
   </div>
-    <div class="competition-details">
+<div class="competition-details">
     <div class="image-container">
       <img src="/images/article.jpg" alt="Image Description">
       <img src="/images/article1.jpg" alt="Image Description1">
@@ -108,7 +108,7 @@ author_profile: true
     <p><span class="label">Competition type:</span> <span class="value">Digital Art competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
     <p><span class="label">Competition details:</span> As part of the PRO-LINGUIST: BATTLE OF LINGUISTIC WIZARDS organized by the International English Language Club, the "Art On Article" segment allowed contestants to showcase their creativity. Contestants were provided with an article and tasked with creating illustrations that reflected their imaginative interpretations</p>
-  </div>
+</div>
 
 <div class="competition-details">
     <div class="image-container">
@@ -121,9 +121,9 @@ author_profile: true
     <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
     <p><span class="label">Competition details:</span> As part of the Creativation'20, organized by IEEE Computer Society Student Branch Chapter IUB, the theme of the competition was  "Facing a Pandemic with Open Ideas via Innovation". The goal was to create a significant impact and navigate through the pandemic by generating fresh ideas and implementing them effectively.</p>
-  </div>
+</div>
 
-  <div class="competition-details">
+<div class="competition-details">
     <div class="image-container">
       <img src="/images/covid.jpg" alt="Image Description">
       <img src="/images/covid1.jpg" alt="Image Description1">
@@ -134,7 +134,7 @@ author_profile: true
     <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
     <p><span class="label">Competition details:</span> IEEE Computer Society Bangladesh Chapter along with IEEE CS BDC HAC & IEEE CS BDC Team SPARK called for a project and idea contest "Online Covid-19 Solution Contest" to resolve the various problems that can be encountered in this COVID-19 epidemic situation.</p>
-  </div>
+</div>
 
 <div class="competition-details">
     <div class="image-container">
@@ -145,10 +145,10 @@ author_profile: true
     <p><span class="label">Competition type:</span> <span class="value">Writing competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
     <p><span class="label">Competition details:</span> Top 20 under two categories "Strengthening Healthcare System" & " Supporting the SMEs" organized by Youth Opportunities & IPDC Finance</p>
-  </div>
+</div>
 
 
-  <div class="competition-details">
+<div class="competition-details">
     <div class="image-container">
       <img src="/images/university.jpg" alt="Image Description">
     </div>
@@ -157,7 +157,7 @@ author_profile: true
     <p><span class="label">Competition type:</span> <span class="value">Idea competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
     <p><span class="label">Competition details:</span> It was organized by IEEE Computer Society RUET SBC & IEEE Ruet Student Branch</p>
-  </div>
+</div>
 
 <div class="competition-details">
     <div class="image-container">
@@ -169,9 +169,9 @@ author_profile: true
     <p><span class="label">Competition type:</span> <span class="value">Poster design competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
     <p><span class="label">Competition details:</span> It was organized by IEEE Computer Society BRACU Student Branch Student Branch</p>
-  </div>
+</div>
 
-  <div class="competition-details">
+<div class="competition-details">
     <div class="image-container">
       <img src="/images/mind.jpg" alt="Image Description">
     </div>
@@ -180,7 +180,8 @@ author_profile: true
     <p><span class="label">Competition type:</span> <span class="value">Poster design competition</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
     <p><span class="label">Competition details:</span> It was organized by BUP ROBOTICS CLUB. Participants were tasked with identifying a post-COVID-19 problem and providing a solution using one of the following technologies: Machine Learning, IoT, Automations and Robotics, Data-driven technologies, Blockchain, Telemedicine, Software and Applications, Biomedical Technologies, and Virtual Presence.</p>
-</div>
+    </div>
+
 
 
 </body>

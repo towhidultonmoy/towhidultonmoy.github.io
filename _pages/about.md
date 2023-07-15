@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "S.M Towhidul Islam Tonmoy"
+title: "Summary"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,17 @@ redirect_from:
   - /about.html
 ---
 <!-- ## About me -->
+<!-- ## Summary -->
+Let me introduce myself and the value I can bring to you. If you explore my website, you'll see that I am involved in various activities. Throughout my journey, I've discovered one constant trait about myself: I never give up. I am passionate about building stuffs and devising solutions, always striving to tackle any challenge that comes my way.
+
+I have a genuine curiosity for knowledge, particularly in areas that contribute to my ability to create. Understanding how things work and their developement processes allows me to blend existing technologies and deliver innovative solutions. Even if you present me with a problem I've never encountered before, rest assured that if it captures my interest, I will dedicate my utmost effort to developing solutions for it.
+
+During my undergraduate studies in Electrical and Electronic Engineering (EEE), I focused on my passion for building. This field enabled me to engage in robotics activities and grasp the hardware aspect. Once I felt confident in that domain, I transitioned to software, as it provided me with the means to create new and impactful solutions. Building things and overcoming challenges has always fascinated me.
+
+The successes you witness on this website are the culmination of my past failures. Each setback has served as a stepping stone, guiding me towards personal growth and a better understanding of my own potential. 
+
+
+## About me
 Hi there! I am S.M Towhidul Islam, an Electrical & Electronic Engineering Graduate student from [Islamic University Of Technology](https://www.iutoic-dhaka.edu/), Gazipur, Bangladesh. 
 
 I am a proud graduate of 2022 with a CGPA of 3.68. Presently, I am working as an Applied ML Researcher at [Robi Axiata Limited](https://www.robi.com.bd/en), Bangladesh. Additionally, I am contributing as a Research Affiliate at The Artificial Intelligence Institute of UofSC ([AIISC](https://aiisc.ai/)) under the guidance of Professor [Dr. Amitava Das](https://scholar.google.com/citations?hl=en&user=HYpfhaEAAAAJ&view_op=list_works&sortby=pubdate).
@@ -35,8 +46,8 @@ I am open to collaborate with any research opportunity related to my area of int
     <p>One Q1 journal under review</p>
   </div>
   <div class="counter-card">
-    <h3><a href="/awards/">Awards</a></h3>
-    <p class="count">7</p>
+    <h3><a href="/awards/">Achievements</a></h3>
+    <p class="count">26</p>
     <p>I have achieved three awards during my student life. The rest of the awards are in sports</p>
   </div>
 </div>
