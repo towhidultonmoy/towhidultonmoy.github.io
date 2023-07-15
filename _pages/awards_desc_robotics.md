@@ -110,7 +110,7 @@ author_profile: true
 
    <div class="competition-details">
     <div class="image-container">
-      <img src="/images/marsrover1.jpg" alt="Photo 1">
+      <img src="/images/marsrover.jpg" alt="Photo 1">
       <img src="/images/marsrover2.jpg" alt="Photo 2">
     </div>
     <h1>  European Rover Challenge 2019 </h1>
