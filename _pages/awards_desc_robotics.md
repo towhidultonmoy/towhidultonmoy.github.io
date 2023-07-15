@@ -84,13 +84,14 @@ author_profile: true
 
  <div class="competition-details">
     <div class="image-container">
-      <img src="/images/robotdesign1.jpg" alt="Photo 1">
+      <img src="/images/robotdesign3.jpg" alt="Photo 1">
+      <img src="/images/robotdesign4.jpg" alt="Photo 2">
     </div>
     <h1> Robotics Design Challenge </h1>
     <p><span class="label">Position:</span> <span class="value">Champion</span></p>
     <p><span class="label">Competition type:</span> <span class="value">CAD design</span></p>
     <p><span class="label">Competition status:</span> <span class="value">National</span></p>
-    <p><span class="label">Competition details:</span> Robotics Design Challenge organized by Dhaka College Science Club( DCSC) titling " Deus Ex Machina 1.0".
+    <p><span class="label">Competition details:</span> Robotics Design Challenge as a part of Atlas Technomas 1.0 organized by Team Atlas".
 </p>
   </div> 
 
