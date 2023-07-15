@@ -30,22 +30,22 @@ I am open to collaborate with any research opportunity related to my area of int
 ## Undergraduate Projects, Journals & Papers
 
 <div class="counter-container">
-  <div class="counter-card" onclick="redirectToHref('/publications/')">
+  <div class="counter-card">
     <h3><a href="/publications/">Papers</a></h3>
     <p class="count">4</p>
     <p>Two papers under review</p>
   </div>
-  <div class="counter-card" onclick="redirectToHref('/portfolio/')">
+  <div class="counter-card">
     <h3><a href="/portfolio/">Projects</a></h3>
     <p class="count">5</p>
     <p>Eight undergraduate projects completed</p>
   </div>
-  <div class="counter-card" onclick="redirectToHref('/publications/')">
+  <div class="counter-card">
     <h3><a href="/publications/">Journals</a></h3> 
     <p class="count">1</p>
     <p>One Q1 journal under review</p>
   </div>
-  <div class="counter-card" onclick="redirectToHref('/awards/')">
+  <div class="counter-card">
     <h3><a href="/awards/">Achievements</a></h3>
     <p class="count">26</p>
     <p>I have achieved three awards during my student life. The rest of the awards are in sports</p>
@@ -58,14 +58,13 @@ I am open to collaborate with any research opportunity related to my area of int
   flex-wrap: wrap;
   justify-content: center;
   gap: 10px;
-  cursor: pointer; /* Add cursor style to indicate it's clickable */
 }
 
 .counter-card {
   flex-basis: 170px;
   text-align: center;
   padding: 20px;
-  background-color: #121212.;
+  background-color: #121212;
   color: #ffffff;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(255, 255, 255, 0.1);
@@ -96,11 +95,23 @@ p {
   color: #ffffff;
 }
 </style>
+
 <script>
-function redirectToHref(href) {
-  window.location.href = href;
-}
+document.addEventListener('DOMContentLoaded', function() {
+  var counterCards = document.getElementsByClassName('counter-card');
+
+  Array.from(counterCards).forEach(function(card) {
+    card.addEventListener('click', function(event) {
+      if (!event.target.closest('a')) {
+        var link = this.querySelector('a');
+        var href = link.getAttribute('href');
+        window.location.href = href;
+      }
+    });
+  });
+});
 </script>
+
 
 <div class="experience-container">
   <div class="education">
