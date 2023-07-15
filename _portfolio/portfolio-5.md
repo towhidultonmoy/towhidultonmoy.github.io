@@ -1,27 +1,47 @@
 ---
-title: "Remedi: A complete healthcare solution"
-excerpt: "<img src='/images/app.JPG'>"
+title: "Hindi and Tamil Question Answering"
+excerpt: "<img src='/images/QA.png'>"
 collection: portfolio
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2eKXh9XbTl8" frameborder="0" allowfullscreen></iframe>
+<html>
+<head>
+    <style>
+        .cover {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .cover img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="cover">
+        <img src="/images/QA.png" alt="Cover Image">
+    </div>
 
 
+</body>
+</html>
 
-##  The Problem
 
-During the COVID-19 crisis, our country has witnessed a distressing situation where patients are losing their lives due to the chaotic process of seeking medical care. Patients are often forced to rush from one hospital to another, only to find that the treatment facilities in those hospitals are temporarily suspended. This creates a frustrating cycle of searching for available healthcare options, causing delays in receiving timely treatment. Moreover, hospitals frequently require patients to provide specific documents, including proof of a negative COVID-19 status, further complicating the process. The lack of information about hospital conditions and the challenge of accessing necessary resources, such as oxygen cylinders, exacerbate the suffering of patients.
+## Context:
+India, with its staggering population of nearly 1.4 billion people, is the second-most populous country globally. However, Indian languages, such as Hindi and Tamil, remain underrepresented on the web. Popular Natural Language Understanding (NLU) models often struggle with Indian languages, resulting in subpar user experiences for Indian web users. By harnessing the expertise of the Kaggle community and leveraging novel machine learning solutions, we can help Indian users fully utilize the web and overcome language barriers.
 
-Additionally, doctors themselves face the risk of contracting the coronavirus as patients may hide their COVID-19 illness, putting the medical staff at increased risk.
+Problem:
+While predicting answers to questions is a common NLU task, it is less explored in Hindi and Tamil. Advancements in multilingual modeling require focused efforts to generate high-quality datasets and improve modeling techniques. Additionally, for languages with limited representation in public datasets, establishing trustworthy evaluations becomes challenging. This competition aims to address these gaps by providing a new question answering dataset called chaii-1. The dataset, covering Hindi and Tamil, was collected without translation and presents a realistic information-seeking task with questions crafted by expert native-speaking data annotators. Participants are encouraged to contribute additional datasets to drive future machine learning advancements for Indian languages.
 
-## The Solution
+## Goal and Tasks:
+In this competition, the objective is to predict answers to real questions based on Wikipedia articles. Participants will work with the chaii-1 dataset, a question answering dataset consisting of question-answer pairs in Hindi and Tamil. The dataset offers an opportunity to tackle information-seeking challenges without relying on translation. Participants will be provided with a baseline model and inference code to build upon.
 
-To address these critical issues, I propose the development of a comprehensive app equipped with essential features to streamline the patient experience and improve access to appropriate healthcare. This app will include a list of nearby hospitals, providing information about their available facilities and services. It will also provide guidance on the necessary documents required for treatment and maintain a central database of COVID-19-affected patients. To facilitate identification, the app will include a "corona badge" feature for individuals to easily communicate their COVID-19 status.
+## Impact and Benefits:
+Successful contributions to this competition will significantly enhance the performance of NLU models in Indian languages. The improved results have the potential to enhance the web experience for India's vast population of nearly 1.4 billion people. Moreover, advancements in multilingual NLP achieved through this competition can extend beyond the languages specific to the competition. By participating, you not only contribute to the development of question answering capabilities in Hindi and Tamil, but you also contribute to the broader field of multilingual NLP.
 
-One of the app's standout features is the "Emergency" option, which incorporates an AI-powered chatbot to assist patients. Leveraging machine learning techniques, the app will identify the most suitable hospitals based on the patient's specific illness, ensuring efficient and effective care. The UI design has been completed, and the development process is currently underway.
+## Achievements:
+In the "chaii - Hindi and Tamil Question Answering" competition hosted by Google India on Kaggle, I secured the 79th position globally, placing in the top 9% of participants worldwide. My approach involved training a "xlm roberta large-squad2" model using the provided dataset, enabling accurate answers to questions given any context in Tamil.
 
-## Benefits and Impact
-
-By implementing this app, we aim to revolutionize the patient experience during the pandemic crisis. Patients and their attendants will have access to crucial information about nearby hospitals, ensuring they make informed decisions regarding their medical care. The app's central database of COVID-19-affected patients will help healthcare providers better manage and monitor the spread of the virus. The availability of necessary documents and the corona badge feature will simplify hospital admission processes, reducing confusion and saving valuable time for both patients and medical staff. Ultimately, the AI-powered chatbot will provide immediate assistance in emergency situations, offering crucial support and guidance to patients in need.
-
-Through the development of this app, we strive to improve patient outcomes, enhance the efficiency of healthcare delivery, and alleviate the challenges faced by both patients and healthcare providers during these unprecedented times.
+Through this competition, we strive to bridge the gap in NLU models for Indian languages, foster linguistic inclusivity, and enhance the accessibility of information for millions of Indian users.

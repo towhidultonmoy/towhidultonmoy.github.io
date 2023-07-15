@@ -1,27 +1,42 @@
 ---
-title: "Remedi: A complete healthcare solution"
-excerpt: "<img src='/images/app.JPG'>"
+title: "Sentiment Analysis of Covid-19 related tweets"
+excerpt: "<img src='/images/sentiment.jpg'>"
 collection: portfolio
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2eKXh9XbTl8" frameborder="0" allowfullscreen></iframe>
+<html>
+<head>
+    <style>
+        .cover {
+            text-align: center;
+            margin-bottom: 20px;
+        }
 
+        .cover img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="cover">
+        <img src="/images/sentiment.jpg" alt="Cover Image">
+    </div>
+
+
+</body>
+</html>
 
 
 ##  The Problem
 
-During the COVID-19 crisis, our country has witnessed a distressing situation where patients are losing their lives due to the chaotic process of seeking medical care. Patients are often forced to rush from one hospital to another, only to find that the treatment facilities in those hospitals are temporarily suspended. This creates a frustrating cycle of searching for available healthcare options, causing delays in receiving timely treatment. Moreover, hospitals frequently require patients to provide specific documents, including proof of a negative COVID-19 status, further complicating the process. The lack of information about hospital conditions and the challenge of accessing necessary resources, such as oxygen cylinders, exacerbate the suffering of patients.
-
-Additionally, doctors themselves face the risk of contracting the coronavirus as patients may hide their COVID-19 illness, putting the medical staff at increased risk.
+The Covid-19 pandemic has had a profound impact on global societies, resulting in significant economic losses, job disruptions, and confinement of a large portion of the global population. Understanding people's sentiments and emotions surrounding the pandemic is crucial for promoting mental health and keeping individuals informed about Covid-19 developments. This sentiment analysis competition focuses on analyzing Tweets related to the pandemic, presenting a multi-label text classification challenge. The training data comprises 5000 labeled tweets, while the validation data consists of 2500 unlabeled tweets. The training data contains three columns: Tweet ID, Tweet text, and corresponding labels. The labels are categorized as Optimistic (0), Thankful (1), Empathetic (2), Pessimistic (3), Anxious (4), Sad (5), Annoyed (6), Denial (7), Surprise (8), Official report (9), and Joking (10). For instance, if a tweet is labeled with 3 and 6, it signifies that the sentiment expressed in the tweet is Pessimistic and Annoyed.
 
 ## The Solution
 
-To address these critical issues, I propose the development of a comprehensive app equipped with essential features to streamline the patient experience and improve access to appropriate healthcare. This app will include a list of nearby hospitals, providing information about their available facilities and services. It will also provide guidance on the necessary documents required for treatment and maintain a central database of COVID-19-affected patients. To facilitate identification, the app will include a "corona badge" feature for individuals to easily communicate their COVID-19 status.
-
-One of the app's standout features is the "Emergency" option, which incorporates an AI-powered chatbot to assist patients. Leveraging machine learning techniques, the app will identify the most suitable hospitals based on the patient's specific illness, ensuring efficient and effective care. The UI design has been completed, and the development process is currently underway.
+In response to this problem, I employed the "XLNet" model in PyTorch to predict the sentiments expressed in tweets associated with the Covid-19 pandemic. Leveraging this powerful model, I successfully classified tweets from a dataset that contained multiple sentiment labels for each text. Through this approach, I aimed to gain insights into the diverse sentiments and emotions expressed by individuals during the pandemic.
 
 ## Benefits and Impact
 
-By implementing this app, we aim to revolutionize the patient experience during the pandemic crisis. Patients and their attendants will have access to crucial information about nearby hospitals, ensuring they make informed decisions regarding their medical care. The app's central database of COVID-19-affected patients will help healthcare providers better manage and monitor the spread of the virus. The availability of necessary documents and the corona badge feature will simplify hospital admission processes, reducing confusion and saving valuable time for both patients and medical staff. Ultimately, the AI-powered chatbot will provide immediate assistance in emergency situations, offering crucial support and guidance to patients in need.
-
-Through the development of this app, we strive to improve patient outcomes, enhance the efficiency of healthcare delivery, and alleviate the challenges faced by both patients and healthcare providers during these unprecedented times.
+By accurately predicting the sentiments of Covid-19-related tweets, this solution offers several benefits. Firstly, it provides valuable insights into people's emotional states, contributing to the overall understanding of mental health during the pandemic. This knowledge can inform mental health support initiatives and help individuals navigate the challenging circumstances brought about by the Covid-19 crisis. This analysis can also aid in monitoring public sentiment towards government policies and interventions, allowing for timely adjustments and improved public communication. Overall, leveraging sentiment analysis in this context has the potential to enhance mental health support, promote informed decision-making, and improve overall well-being during the Covid-19 pandemic.

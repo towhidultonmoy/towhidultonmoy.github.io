@@ -4,8 +4,29 @@ excerpt: "<img src='/images/datathon.png'>"
 collection: portfolio
 ---
 
-<iframe width="560" height="315" src="/images/datathon.png" frameborder="0" allowfullscreen></iframe>
+<html>
+<head>
+    <style>
+        .cover {
+            text-align: center;
+            margin-bottom: 20px;
+        }
 
+        .cover img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+    <div class="cover">
+        <img src="/images/datathon.png" alt="Cover Image">
+    </div>
+
+
+</body>
+</html>
 
 
 ##  The Problem
