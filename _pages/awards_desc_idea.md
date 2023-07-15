@@ -8,7 +8,6 @@ author_profile: true
 ---
 
 <html>
-
 <head>
   <meta charset="UTF-8">
   <title>Bullet Points Example</title>
@@ -20,7 +19,6 @@ author_profile: true
 
     h1 {
       text-align: center;
-
     }
 
     p {
@@ -33,7 +31,7 @@ author_profile: true
       padding: 20px;
       border-radius: 5px;
       box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
-      max-width: 500px;
+      max-width: 800px; /* Adjust the max-width value as desired */
       margin-left: auto;
       margin-right: auto;
     }
@@ -47,13 +45,13 @@ author_profile: true
     }
 
     .image-container {
-      float: right;
-      margin-left: 20px;
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 10px;
     }
 
-    img {
-      max-width: 100%;
-      height: auto;
+    .image-container img {
+      max-width: 50%;
     }
   </style>
 </head>
@@ -62,6 +60,7 @@ author_profile: true
   <div class="competition-details">
     <div class="image-container">
       <img src="/images/bikiron.jpg" alt="Image Description">
+      <img src="/images/bikiron1.jpg" alt="Image Description1">
     </div>
     <h1>Bikiron:Sustainable Energy Innovation Challenge</h1>
     <p><span class="label">Position:</span> <span class="value">3rd</span></p>

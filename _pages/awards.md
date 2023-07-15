@@ -56,12 +56,12 @@ author_profile: true
     </div>
     <div class="item">
       <h2><a href="/awards_desc_idea/">National Idea Competitions</a></h2>
-      <div class="number">5</div>
+      <div class="number">10</div>
       <div class="label">Standout accomplishments</div>
     </div>
     <div class="item">
       <h2><a href="/awards_desc_robotics/">Robotics Competitions</a></h2>
-      <div class="number">3</div>
+      <div class="number">6</div>
       <div class="label">Memorable successes</div>
     </div>
   </div>
