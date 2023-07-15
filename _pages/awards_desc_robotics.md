@@ -6,6 +6,7 @@ author_profile: true
 # redirect_from:
 #   - /resume
 ---
+<html>
 <head>
   <meta charset="UTF-8">
   <title>Bullet Points Example</title>
@@ -49,7 +50,7 @@ author_profile: true
     }
 
     .image-container img {
-      max-width: 45%;
+      max-width: 60%;
     }
   </style>
 </head>
