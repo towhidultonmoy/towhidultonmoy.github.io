@@ -6,6 +6,8 @@ author_profile: true
 # redirect_from:
 #   - /resume
 ---
+<html>
+
 <head>
   <meta charset="UTF-8">
   <title>Bullet Points Example</title>
@@ -26,10 +28,10 @@ author_profile: true
     .competition-details {
       margin-top: 20px;
       border: 1px solid #ccc;
-      padding: 20px;
-      border-radius: 5px;
+      padding: 10px; /* Adjust the padding value as desired */
+      border-radius: 3px; /* Adjust the border radius value as desired */
       box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.1);
-      max-width: 800px; /* Adjust the max-width value as desired */
+      max-width: 800px;
       margin-left: auto;
       margin-right: auto;
     }
@@ -45,14 +47,15 @@ author_profile: true
     .image-container {
       display: flex;
       justify-content: space-between;
-      margin-bottom: 10px;
+      margin-bottom: 5px; /* Adjust the margin-bottom value as desired */
     }
 
     .image-container img {
-      max-width: 45%;
+      max-width: 40%; /* Adjust the max-width value as desired */
     }
   </style>
 </head>
+
 
 <body>
   <div class="competition-details">
