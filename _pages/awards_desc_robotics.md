@@ -50,7 +50,7 @@ author_profile: true
     }
 
     .image-container img {
-      max-width: 60%;
+      max-width: 50%;
     }
   </style>
 </head>
