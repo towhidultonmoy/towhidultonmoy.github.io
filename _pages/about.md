@@ -28,7 +28,7 @@ Our recent publication at ACL2023 main is a testament to my passion and dedicati
 I am open to collaborate with any research opportunity related to my area of interest. If you have any queries, please feel free to reach out to me via [email](towhidulislam@iut-dhaka.edu).
 
 ## Undergraduate Projects, Journals & Papers
-
+/portfolio/
 <div class="counter-container">
   <div class="counter-card">
     <h3><a href="/publications/">Papers</a></h3>
@@ -36,7 +36,7 @@ I am open to collaborate with any research opportunity related to my area of int
     <p>Two papers under review</p>
   </div>
   <div class="counter-card">
-    <h3><a href="/portfolio/">Projects</a></h3>
+    <h3>Projects</h3>
     <p class="count">3</p>
     <p>Eight undergraduate projects completed</p>
   </div>
