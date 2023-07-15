@@ -68,6 +68,19 @@ author_profile: true
     <p><span class="label">Competition details:</span> The participating teams were asked to build a manually controlled gripper bot (wired or wireless) which can grip objects and put them in target zones while overcoming the hurdles in the path with minimum time.
 </p>
   </div>
+
+<div class="competition-details">
+    <div class="image-container">
+      <img src="/images/soccer1.jpg" alt="Photo 1">
+      <img src="/images/soccer2.jpg" alt="Photo 2">
+    </div>
+    <h1> Soccer Bot Competition </h1>
+    <p><span class="label">Position:</span> <span class="value">Semi finalist</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Robotics hackathon</span></p>
+    <p><span class="label">Competition status:</span> <span class="value">National</span></p>
+    <p><span class="label">Competition details:</span> Soccer Wheels, a tournament for manually controlled ground-wheeled robots to compete in scoring goals with a ball, was held as part of the annual technology festival "NDITC_init 2019," organized by the Notre Dame Information Technology Club (NDITC).
+</p>
+  </div>
 </body>
 
 </html>
