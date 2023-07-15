@@ -8,6 +8,7 @@ author_profile: true
 ---
 
 <html>
+
 <head>
   <meta charset="UTF-8">
   <title>Bullet Points Example</title>
@@ -46,12 +47,13 @@ author_profile: true
 
     .image-container {
       display: flex;
-      justify-content: space-between;
+      justify-content: center; /* Change to center to align images in the center */
       margin-bottom: 10px;
     }
 
     .image-container img {
-      max-width: 50%;
+      max-width: 100%; /* Set max-width to 100% to take full width of container */
+      height: auto;
     }
   </style>
 </head>
