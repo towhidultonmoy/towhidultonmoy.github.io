@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "S.M Towhidul Islam Tonmoy"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "S.M Towhidul Islam Tonmoy"
 description              : &description "Applied ML Researcher@Robi Axiata Limited"
