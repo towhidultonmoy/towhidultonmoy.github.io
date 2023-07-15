@@ -120,7 +120,19 @@ author_profile: true
     <p><span class="label">Competition details:</span> IUT Mars Rover Team, "Team Avijatrik" had secured 15th position in European Rover Challenge 2019.
 We had stood 1st among all Asian teams leaving behind teams from India and Sri Lanka making us the 1st among the teams that participated from Bangaldesh.
 </p>
-  </div>  
+</div>  
+   <div class="competition-details">
+    <div class="image-container">
+      <img src="/images/irdc1.jpg" alt="Photo 1">
+      <img src="/images/irdc2.jpg" alt="Photo 2">
+    </div>
+    <h1>  Indian Rover Design Challenge  2020 </h1>
+    <p><span class="label">Position:</span> <span class="value">17th Worldwide</span></p>
+    <p><span class="label">Competition type:</span> <span class="value">Martian robots competition </span></p>
+    <p><span class="label">Competition status:</span> <span class="value">Interational</span></p>
+    <p><span class="label">Competition details:</span> IUT Mars Rover Team, "Team Avijatrik" had secured 17th position in Indian Rover Design Challenge  2020.
+</p>
+  </div> 
 
 </body>
 
