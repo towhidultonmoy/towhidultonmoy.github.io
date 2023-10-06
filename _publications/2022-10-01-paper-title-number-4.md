@@ -7,6 +7,6 @@ collection: publications
 excerpt: 'Vipula Rawte, SWAGATA CHAKRABORTY, Agnibh Pathak, ANUBHAV SARKAR, <i><b>S.M Towhidul
 Islam Tonmoy</b></i>, Aman Chadha, Amit P. Sheth, Amitava Das'
 date: 2023-11-01
-venue: 'EMNLP'
+venue: '<font color="green">EMNLP</font>'
 processing: 'True'
 ---
