@@ -7,6 +7,6 @@ excerpt: 'Megha Chakraborty, <i><b>S.M Towhidul Islam Tonmoy</b></i>, S M Mehedi
 Kumar, Krish Sharma, Niyar R Barman, Chandan Gupta, Vinija Jain, Aman Chadha, Amit P. Sheth,
 Amitava Das'
 date: 2023-11-01
-venue: '<font color="blue">EMNLP</font>'
+venue: '<font color="green"><b>EMNLP<b/></font>'
 processing: 'True'
 ---
