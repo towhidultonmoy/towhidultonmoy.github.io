@@ -180,14 +180,15 @@ p {
 
 
 ## News Updates
+- **August 21, 2023** - I have stood #4th and #9th in the shared tasks of the first Bangla Language Processing (BLP) Workshop that will be co-located with <b>EMNLP</b> on 7th December, 2023 in Singapore.
 
-- **Jult 11, 2023** - I have one paper , ""FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering" accepted at ACL2023. Huge thanks and congratulations to all collaborators!
+- **May 2, 2023** - I have one paper , "FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering" accepted at <b>ACL2023</b>. Huge thanks and congratulations to all collaborators!
 
-- **Upcoming Conference Announcement** - July 1, 2023
-  We are pleased to announce the upcoming international conference on AI and ML.
+- **March 5, 2023** - My team has ranked 5th in the first round of 'Apurba presents Bhashabhrom: EEE DAY 2023 Datathon' Kaggle Competition where we excelled in detecting grammatical errors in Bengali sentences using a sequence labeling approach.
 
-- **New Collaboration Opportunity** - August 10, 2023
-  We are excited to announce a new collaboration opportunity with a leading industry partner.
+- **December 20, 2022** - Our paper titled "OOG - Optuna Optimized GAN Sampling Technique for Tabular Imbalanced Malware Data" was presented today at the 2022 IEEE International Conference on Big Data in Osaka, Japan.
+
+- **November 9, 2022** - Our team, IUT_Reset has achieved the first place in IEEE Big Data Cup 2022 and our paper has been accepted for presentation in the conference. 
 
 <!-- - **Exciting Research Discovery** - June 15, 2023
   A groundbreaking research finding has been published in a prestigious journal.
