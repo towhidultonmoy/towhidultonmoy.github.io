@@ -16,7 +16,7 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 <body>
     <div class="container">
         <div class="slideshow">
-            <!-- Slideshow content here -->
+            <img src="/images/5wqa_poster.png" alt="Cover Image">
         </div>
         <div class="paper-info">
             <h2>Paper Title</h2>
