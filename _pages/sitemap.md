@@ -2,7 +2,7 @@
 layout: archive
 title: "Summary"
 permalink: /sitemap/
-author_profile: False
+author_profile: true
 ---
 
 <!-- {% include base_path %}
