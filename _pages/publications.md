@@ -19,7 +19,7 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
             <!-- Slideshow content here -->
         </div>
         <div class="paper-info">
-            <h2><a href="/_publications/2023-07-01-paper-title-number-1.md">FACTIFY-5WQA: 5W Aspect-based Fact Verification
+            <h2><a href="_publications/2023-07-01-paper-title-number-1.md">FACTIFY-5WQA: 5W Aspect-based Fact Verification
 through Question Answering.</a></h2>
             <p>Anku Rani, <i><b>S.M Towhidul Islam Tonmoy</b></i>, Dwip D. Dalal, Shreya Gautam, Megha Chakraborty, Aman
 Chadha, Amit Sheth and Amitava Das.</p>
