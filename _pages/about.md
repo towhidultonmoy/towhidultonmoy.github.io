@@ -181,14 +181,22 @@ p {
 
 ## News Updates
 
-- **Exciting Research Discovery** - June 15, 2023
-  A groundbreaking research finding has been published in a prestigious journal.
+- **Jult 11, 2023** - I have one paper , ""FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering" accepted at ACL2023. Huge thanks and congratulations to all collaborators!
 
 - **Upcoming Conference Announcement** - July 1, 2023
   We are pleased to announce the upcoming international conference on AI and ML.
 
 - **New Collaboration Opportunity** - August 10, 2023
   We are excited to announce a new collaboration opportunity with a leading industry partner.
+
+<!-- - **Exciting Research Discovery** - June 15, 2023
+  A groundbreaking research finding has been published in a prestigious journal.
+
+- **Upcoming Conference Announcement** - July 1, 2023
+  We are pleased to announce the upcoming international conference on AI and ML.
+
+- **New Collaboration Opportunity** - August 10, 2023
+  We are excited to announce a new collaboration opportunity with a leading industry partner. -->
 
 ## Skills
 
