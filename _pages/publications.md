@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 Preprints can be found on my [Google Scholar page](https://scholar.google.com/citations?user=3lmZN3gAAAAJ&hl=en)
-<html>
+
 <head>
     <title>Publications</title>
     <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file for styling -->
@@ -16,11 +16,13 @@ Preprints can be found on my [Google Scholar page](https://scholar.google.com/ci
 <body>
     <div class="container">
         <div class="slideshow">
-            <img src="/images/5wqa_poster.png" alt="Cover Image">
+            <!-- Slideshow content here -->
         </div>
         <div class="paper-info">
-            <h2>Paper Title</h2>
-            <p>Authors: Author 1, Author 2, Author 3</p>
+            <h2><a href="2023-07-01-paper-title-number-1.md">FACTIFY-5WQA: 5W Aspect-based Fact Verification
+through Question Answering.</a></h2>
+            <p>Anku Rani, <i><b>S.M Towhidul Islam Tonmoy</b></i>, Dwip D. Dalal, Shreya Gautam, Megha Chakraborty, Aman
+Chadha, Amit Sheth and Amitava Das.</p>
             <div class="buttons">
                 <a href="paper.pdf" class="btn">PDF</a>
                 <a href="abstract.html" class="btn">Abstract</a>
