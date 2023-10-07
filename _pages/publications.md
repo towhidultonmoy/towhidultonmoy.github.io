@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-All up-to-date list can be found on my <a href="https://scholar.google.com/citations?user=3lmZN3gAAAAJ&hl=en" target="_blank" style="color: blue;">Google Scholar</a> page.
+All up-to-date list can be found on my <a href="https://scholar.google.com/citations?user=3lmZN3gAAAAJ&hl=en" target="_blank" style="color: #0074d9;">Google Scholar</a> page.
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -105,6 +105,23 @@ All up-to-date list can be found on my <a href="https://scholar.google.com/citat
             </div>
         </div>
     </div>
+
+          <div class="publication">
+        <!-- <img src="/images/oog_gif.gif" alt="Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as You May Think - Introducing AI Detectability Index (ADI)."> -->
+        <div class="publication-info">
+            <div class="publication-title">Exploring the Relationship between LLM Hallucinations and Prompt Linguistic Nuances: Readability, Formality, and Concreteness</div>
+            <div class="publication-venue"><b>Preprint</b></div>
+            <div class="publication-authors">Vipula Rawte, Prachi Priya, <i><b>S.M Towhidul Islam Tonmoy</b></i>, S.M Mehedi Zaman, Amit Sheth, Amitava Das</div>
+            
+            <div class="publication-buttons">
+                <a href="https://arxiv.org/abs/2309.11064" target="_blank">Arxiv</a>
+                <!-- <a href="\abstract\oog_abstract.html" target="_blank">Abstract</a> -->
+                <a href="\bibtex\hallucination_linguistic.html" target="_blank">BibTeX</a>
+            </div>
+        </div>
+    </div>
+
+
           <div class="publication">
         <!-- <img src="/images/oog_gif.gif" alt="Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as You May Think - Introducing AI Detectability Index (ADI)."> -->
         <div class="publication-info">
