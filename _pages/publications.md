@@ -92,7 +92,7 @@ author_profile: true
         </div>
     </div>
       <div class="publication">
-        <img src="/images/Workflow.jpg" alt="OOG-Optuna Optimized GAN Sampling Technique for Tabular Imbalanced Malware Data.">
+        <img src="/images/oog_gif.gif" alt="OOG-Optuna Optimized GAN Sampling Technique for Tabular Imbalanced Malware Data.">
         <div class="publication-info">
             <div class="publication-title">OOG-Optuna Optimized GAN Sampling Technique for Tabular Imbalanced Malware Data.</div>
             <div class="publication-venue"><b>IEEE International Conference on Big Data</b></div>
