@@ -28,8 +28,8 @@ author_profile: true
             align-items: center;
         }
         .publication img {
-            max-width: 150px;
-            max-height: 100px;
+            max-width: 100%; /* Make the image responsive */
+            max-height: 100px; /* Limit the height for consistency */
             margin-right: 20px;
         }
         .publication-info {
@@ -52,6 +52,20 @@ author_profile: true
             color: white;
             padding: 5px 10px;
             border-radius: 5px;
+        }
+
+        /* Media query for phone screens */
+        @media (max-width: 768px) {
+            .publication {
+                flex-direction: column; /* Stack elements vertically */
+                align-items: flex-start; /* Align items to the left */
+            }
+            .publication img {
+                max-width: 100%; /* Make the image responsive */
+                max-height: none; /* Remove max-height to adapt to content */
+                margin-right: 0; /* Remove right margin */
+                margin-bottom: 10px; /* Add bottom margin for spacing */
+            }
         }
     </style>
 </head>
