@@ -58,12 +58,12 @@ author_profile: true
 <body>
     <!-- Replace this with your actual publications -->
     <div class="publication">
-        <img src="paper1.gif" alt="Paper 1">
+        <img src="/images/5wqa_gif.gif" alt="FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering.">
         <div class="publication-info">
-            <div class="publication-title">Paper 1 Title</div>
-            <div class="publication-authors">Author 1, Author 2</div>
+            <div class="publication-title">FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering.</div>
+            <div class="publication-authors">Anku Rani, <i><b>S.M Towhidul Islam Tonmoy</b></i>, Dwip D. Dalal, Shreya Gautam, Megha Chakraborty, Aman Chadha, Amit Sheth and Amitava Das.</div>
             <div class="publication-buttons">
-                <a href="paper1.pdf" target="_blank">PDF</a>
+                <a href="https://aclanthology.org/2023.acl-long.581/" target="_blank">PDF</a>
                 <a href="paper1_abstract.html" target="_blank">Abstract</a>
                 <a href="paper1.bib" target="_blank">BibTeX</a>
                 <a href="paper1_code.html" target="_blank">Code</a>
