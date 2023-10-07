@@ -178,8 +178,8 @@ author_profile: true
     <div id="paper1_abstract" class="modal">
         <div class="modal-content">
             <span class="close" onclick="closeModal('paper1_abstract')">&times;</span>
-            <h2>Paper 1 Abstract</h2>
-            <p>Here goes the abstract for your paper...</p>
+            <h2>Abstract</h2>
+            <p>Automatic fact verification has received significant attention recently. Contemporary automatic fact-checking systems focus on estimating truthfulness using numerical scores which are not human-interpretable. A human fact-checker generally follows several logical steps to verify a verisimilitude claim and conclude whether it’s truthful or a mere masquerade. Popular fact-checking websites follow a common structure for fact categorization such as half true, half false, false, pants on fire, etc. Therefore, it is necessary to have an aspect-based (delineating which part(s) are true and which are false) explainable system that can assist human fact-checkers in asking relevant questions related to a fact, which can then be validated separately to reach a final verdict. In this paper, we propose a 5W framework (who, what, when, where, and why) for question-answer-based fact explainability. To that end, we present a semi-automatically generated dataset called FACTIFY-5WQA, which consists of 391, 041 facts along with relevant 5W QAs – underscoring our major contribution to this paper. A semantic role labeling system has been utilized to locate 5Ws, which generates QA pairs for claims using a masked language model. Finally, we report a baseline QA system to automatically locate those answers from evidence documents, which can serve as a baseline for future research in the field. Lastly, we propose a robust fact verification system that takes paraphrased claims and automatically validates them. </p>
         </div>
     </div>
 
@@ -187,15 +187,29 @@ author_profile: true
     <div id="paper1_bibtex" class="modal">
         <div class="modal-content">
             <span class="close" onclick="closeModal('paper1_bibtex')">&times;</span>
-            <h2>Paper 1 BibTeX</h2>
+            <h2>BibTeX</h2>
             <pre>
-                @article{your-paper-key,
-                    author = {Author 1 and Author 2},
-                    title = {Your Paper Title},
-                    journal = {Journal Name},
-                    year = {2023},
-                    ...
+                @inproceedings{rani-etal-2023-factify,
+                    title = "{FACTIFY}-5{WQA}: 5{W} Aspect-based Fact Verification through Question Answering",
+                    author = "Rani, Anku  and
+                      Tonmoy, S.M Towhidul Islam  and
+                      Dalal, Dwip  and
+                      Gautam, Shreya  and
+                      Chakraborty, Megha  and
+                      Chadha, Aman  and
+                      Sheth, Amit  and
+                      Das, Amitava",
+                    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+                    month = jul,
+                    year = "2023",
+                    address = "Toronto, Canada",
+                    publisher = "Association for Computational Linguistics",
+                    url = "https://aclanthology.org/2023.acl-long.581",
+                    doi = "10.18653/v1/2023.acl-long.581",
+                    pages = "10421--10440",
+                    abstract = "Automatic fact verification has received significant attention recently. Contemporary automatic fact-checking systems focus on estimating truthfulness using numerical scores which are not human-interpretable. A human fact-checker generally follows several logical steps to verify a verisimilitude claim and conclude whether it{'}s truthful or a mere masquerade. Popular fact-checking websites follow a common structure for fact categorization such as half true, half false, false, pants on fire, etc. Therefore, it is necessary to have an aspect-based (delineating which part(s) are true and which are false) explainable system that can assist human fact-checkers in asking relevant questions related to a fact, which can then be validated separately to reach a final verdict. In this paper, we propose a 5W framework (who, what, when, where, and why) for question-answer-based fact explainability. To that end, we present a semi-automatically generated dataset called FACTIFY-5WQA, which consists of 391, 041 facts along with relevant 5W QAs {--} underscoring our major contribution to this paper. A semantic role labeling system has been utilized to locate 5Ws, which generates QA pairs for claims using a masked language model. Finally, we report a baseline QA system to automatically locate those answers from evidence documents, which can serve as a baseline for future research in the field. Lastly, we propose a robust fact verification system that takes paraphrased claims and automatically validates them. The dataset and the baseline model are available at https: //github.com/ankuranii/acl-5W-QA",
                 }
+
             </pre>
         </div>
     </div>
