@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-
+All up-to-date list can be found on my <a href="https://scholar.google.com/citations?user=3lmZN3gAAAAJ&hl=en" target="_blank">Google Scholar</a> page.
 <html lang="en">
 <head>
     <meta charset="UTF-8">
