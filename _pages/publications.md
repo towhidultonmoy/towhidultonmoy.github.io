@@ -79,8 +79,9 @@ author_profile: true
         <img src="/images/5wqa_gif.gif" alt="FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering.">
         <div class="publication-info">
             <div class="publication-title">FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering.</div>
+            <div class="publication-venue"><b>ACL 2023</b></div>
             <div class="publication-authors">Anku Rani, <i><b>S.M Towhidul Islam Tonmoy</b></i>, Dwip D. Dalal, Shreya Gautam, Megha Chakraborty, Aman Chadha, Amit Sheth and Amitava Das.</div>
-            <div class="publication-venue">ACL 2023</div>
+            
             <div class="publication-buttons">
                 <a href="https://aclanthology.org/2023.acl-long.581/" target="_blank">PDF</a>
                 <a href="\abstract\5wqa_abstract.html" target="_blank">Abstract</a>
