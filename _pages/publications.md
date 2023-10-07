@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %} -->
-All up-to-date list can be found on my <a href="https://scholar.google.com/citations?user=3lmZN3gAAAAJ&hl=en" target="_blank">Google Scholar</a> page.
+All up-to-date list can be found on my <a href="https://scholar.google.com/citations?user=3lmZN3gAAAAJ&hl=en" target="_blank" style="color: blue;">Google Scholar</a> page.
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -113,6 +113,40 @@ All up-to-date list can be found on my <a href="https://scholar.google.com/citat
             <div class="publication-authors">Megha Chakraborty, <i><b>S.M Towhidul Islam Tonmoy</b></i>, S M Mehedi Zaman, Shreya Gautam, Tanay
 Kumar, Krish Sharma, Niyar R Barman, Chandan Gupta, Vinija Jain, Aman Chadha, Amit P. Sheth,
 Amitava Das</div>
+            
+            <!-- <div class="publication-buttons">
+                <a href="https://ieeexplore.ieee.org/abstract/document/10020393/" target="_blank">PDF</a>
+                <a href="\abstract\oog_abstract.html" target="_blank">Abstract</a>
+                <a href="\bibtex\oog_bibtex.html" target="_blank">BibTeX</a>
+            </div> -->
+        </div>
+    </div>
+
+              <div class="publication">
+        <!-- <img src="/images/oog_gif.gif" alt="Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as You May Think - Introducing AI Detectability Index (ADI)."> -->
+        <div class="publication-info">
+            <div class="publication-title">The Troubling Emergence of
+Hallucination in Large Language Models - An Extensive Definition, Quantification, and
+Prescriptive Remediations</div>
+            <div class="publication-venue">Submitted to <b>EMNLP 2023</b></div>
+            <div class="publication-authors">Vipula Rawte, SWAGATA CHAKRABORTY, Agnibh Pathak, ANUBHAV SARKAR, <i><b>S.M Towhidul
+Islam Tonmoy</b></i>, Aman Chadha, Amit P. Sheth, Amitava Das</div>
+            
+            <!-- <div class="publication-buttons">
+                <a href="https://ieeexplore.ieee.org/abstract/document/10020393/" target="_blank">PDF</a>
+                <a href="\abstract\oog_abstract.html" target="_blank">Abstract</a>
+                <a href="\bibtex\oog_bibtex.html" target="_blank">BibTeX</a>
+            </div> -->
+        </div>
+    </div>
+
+              <div class="publication">
+        <!-- <img src="/images/oog_gif.gif" alt="Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as You May Think - Introducing AI Detectability Index (ADI)."> -->
+        <div class="publication-info">
+            <div class="publication-title">Students’
+Mental Wellbeing Prediction in Relation to Mobile Connectivity: A Comprehensive Study</div>
+            <div class="publication-venue">Submitted to <b>Scientific Reports Journal</b></div>
+            <div class="publication-authors"><i><b>S.M Towhidul Islam Tonmoy</b></i>, S.M Mehedi Zaman, Mirza Muntasir Nishat, Fahim Faisal</div>
             
             <!-- <div class="publication-buttons">
                 <a href="https://ieeexplore.ieee.org/abstract/document/10020393/" target="_blank">PDF</a>
