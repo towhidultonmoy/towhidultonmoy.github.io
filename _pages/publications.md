@@ -65,7 +65,7 @@ author_profile: true
             <div class="publication-buttons">
                 <a href="https://aclanthology.org/2023.acl-long.581/" target="_blank">PDF</a>
                 <a href="\abstract\5wqa_abstract.html" target="_blank">Abstract</a>
-                <a href="\bibtex\5wqa_bibtex.bib" target="_blank">BibTeX</a>
+                <a href="\bibtex\5wqa_bibtex.html" target="_blank">BibTeX</a>
                 <a href="https://github.com/ankuranii/acl-5W-QA/tree/master" target="_blank">Code</a>
                 <a href="https://huggingface.co/spaces/Towhidul/5WQA" target="_blank">Demo</a>
             </div>
