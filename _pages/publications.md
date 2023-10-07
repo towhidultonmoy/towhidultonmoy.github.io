@@ -105,6 +105,23 @@ author_profile: true
             </div>
         </div>
     </div>
+          <div class="publication">
+        <!-- <img src="/images/oog_gif.gif" alt="Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as You May Think - Introducing AI Detectability Index (ADI)."> -->
+        <div class="publication-info">
+            <div class="publication-title">Counter Turing Test (CT2): AI-Generated Text Detection is Not as Easy as You May Think - Introducing AI Detectability Index (ADI).</div>
+            <div class="publication-venue">Submitted to <b>EMNLP 2023</b></div>
+            <div class="publication-authors">Megha Chakraborty, <i><b>S.M Towhidul Islam Tonmoy</b></i>, S M Mehedi Zaman, Shreya Gautam, Tanay
+Kumar, Krish Sharma, Niyar R Barman, Chandan Gupta, Vinija Jain, Aman Chadha, Amit P. Sheth,
+Amitava Das</div>
+            
+            <!-- <div class="publication-buttons">
+                <a href="https://ieeexplore.ieee.org/abstract/document/10020393/" target="_blank">PDF</a>
+                <a href="\abstract\oog_abstract.html" target="_blank">Abstract</a>
+                <a href="\bibtex\oog_bibtex.html" target="_blank">BibTeX</a>
+            </div> -->
+        </div>
+    </div>
+
 
     <!-- Add more publications in a similar format -->
 
