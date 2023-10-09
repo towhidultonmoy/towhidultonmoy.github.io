@@ -23,7 +23,7 @@ Hi there! I am S.M Towhidul Islam, an Electrical & Electronic Engineering Gradua
 
 I am a proud graduate of 2022 with a CGPA of 3.68. Presently, I am working as an Applied ML Researcher at [Robi Axiata Limited](https://www.robi.com.bd/en), Bangladesh. Additionally, I am contributing as a Research Affiliate at The Artificial Intelligence Institute of UofSC ([AIISC](https://aiisc.ai/)) under the guidance of Professor [Dr. Amitava Das](https://scholar.google.com/citations?hl=en&user=HYpfhaEAAAAJ&view_op=list_works&sortby=pubdate).
 
-Our recent publication at ACL2023 main is a testament to my passion and dedication towards research. My research interest lies in fact verification, reducing the hallucination of LLMs and focusing on trustworthy AI. I am constantly exploring new ideas and opportunities to contribute to the field of NLP.
+My recent publications at ACL2023 & EMNLP 2023 main are a testament to my passion and dedication towards research. My <b>research interest</b> lies in fact verification, reducing the hallucination of LLMs and focusing on trustworthy AI. I am constantly exploring new ideas and opportunities to contribute to the field of NLP.
 
 I am open to collaborate with any research opportunity related to my area of interest. If you have any queries, please feel free to reach out to me via [email](towhidulislam@iut-dhaka.edu).
 
