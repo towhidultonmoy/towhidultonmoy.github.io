@@ -173,7 +173,6 @@ Mental Wellbeing Prediction in Relation to Mobile Connectivity: A Comprehensive 
         </div>
     </div>
 
-        </div>
 
               <div class="publication">
         <!-- <img src="/images/oog_gif.gif" alt="Embeddings at BLP-2023 Task 2: Optimizing Fine-Tuned Transformers
