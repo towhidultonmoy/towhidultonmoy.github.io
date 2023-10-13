@@ -180,7 +180,7 @@ with Cost-Sensitive Learning for Multiclass Sentiment Analysis"> -->
         <div class="publication-info">
             <div class="publication-title">Embeddings at BLP-2023 Task 2: Optimizing Fine-Tuned Transformers
 with Cost-Sensitive Learning for Multiclass Sentiment Analysis</div>
-            <div class="publication-venue">Submitted to <b>EMNLP 2023</b></div>
+            <div class="publication-venue"><b>EMNLP 2023 BLP Workshop</b></div>
             <div class="publication-authors"><i><b>S.M Towhidul Islam Tonmoy</b></i></div>
             
             <!-- <div class="publication-buttons">
