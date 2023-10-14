@@ -233,7 +233,7 @@ p {
 ## Skills
 
 - Programming Languages: Python, SQL, R
-- Big Data Technologies: Hive, Hue, Cloudera
+- Big Data Technologies: Hive, Hue, Cloudera , AWS
 - Database Management: Oracle
 - Data Visualization: Tableau, Power BI
 - Machine Learning: NLP, State-of-the-art Models
