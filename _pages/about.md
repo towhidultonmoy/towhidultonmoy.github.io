@@ -24,15 +24,15 @@ I'm broadly interested in natural language processing and deep learning with a f
 Due to the rapid advancements in Large Language Models (LLMs), their application has become ubiquitous across all domains. Consequently, if the generated content lacks controllability, identifiability, and reliability, it can pose potential harm.
 I am passionate to investigate on below domains,
 
-<p><span style="font-weight: bold;">Human-AI Interaction and Collaboration :</span></p>  Building intelligent , interactive and reliable NLP systems capable of producing factually accurate outputs to assist users in responding to their requests. These systems should be able to achieve this by understanding user queries, offering reasoning for each generated response, and supporting the information with authentic sources. 
+<p><span style="color: red; font-weight: bold;">Human-AI Interaction and Collaboration :</span></p>  Building intelligent , interactive and reliable NLP systems capable of producing factually accurate outputs to assist users in responding to their requests. These systems should be able to achieve this by understanding user queries, offering reasoning for each generated response, and supporting the information with authentic sources. 
 
-<p><span style="font-weight: bold;">NLP for Social Good :</span></p>  Combining NLP techniques for interdisciplinary research, including healthcare, social science and mental health.
+<p><span style="color: red; font-weight: bold;">NLP for Social Good :</span></p>  Combining NLP techniques for interdisciplinary research, including healthcare, social science and mental health.
 
-<p><span style="font-weight: bold;">Trustworthy and Responsible NLP :</span></p> T Identifying and addressing misinformation, racial attacks, and bias in contents of social media. Creating solutions that enable the model to interpret underlying factors of detection.
+<p><span style="color: red; font-weight: bold;">Trustworthy and Responsible NLP :</span></p> T Identifying and addressing misinformation, racial attacks, and bias in contents of social media. Creating solutions that enable the model to interpret underlying factors of detection.
 
-<p><span style="font-weight: bold;">Reasoning and problem solving :</span></p> LLMs should be able to reason their generation. It should have the capability to request additional information from users in order to better understand their preferences and be equipped to fulfill their requests effectively. Based on that it should gradually be able to generate coherent responses . Thus the hallucination in LLMs can be reduced to a great extent.
+<p><span style="color: red; font-weight: bold;">Reasoning and problem solving :</span></p> LLMs should be able to reason their generation. It should have the capability to request additional information from users in order to better understand their preferences and be equipped to fulfill their requests effectively. Based on that it should gradually be able to generate coherent responses . Thus the hallucination in LLMs can be reduced to a great extent.
 
-<p><span style="font-weight: bold;">Linguistic aspects of Prompt :</span></p> Can LLMs understand the linguistic properties of the prompt? Can this information help the LLM in generating coherent response.
+<p><span style="color: red; font-weight: bold;">Linguistic aspects of Prompt :</span></p> Can LLMs understand the linguistic properties of the prompt? Can this information help the LLM in generating coherent response.
 
 
 
