@@ -202,6 +202,15 @@ p {
 
 
 ## News Updates
+- **October 11, 2023** - Happy to share, my shared task paper in The <b>"First Bangla Language Processing (BLP) Workshop @EMNLP 2023"</b> also got accepted.
+
+- **October 7, 2023** - I am happy to share that two of my co-author papers got accepted in <b>EMNLP Main 2023</b>.
+
+1. The Troubling Emergence of Hallucination in Large Language Models - An Extensive Definition, Quantification, and Prescriptive Remediations 
+
+2. Counter Turing Test (CT^2): Al-Generated Text Detection is Not as Easy as You May Think - Introducing Al Detectability Index (ADI) 
+
+
 - **August 21, 2023** - I have stood #4th and #9th in the shared tasks of the first Bangla Language Processing (BLP) Workshop that will be co-located with <b>EMNLP</b> on 7th December, 2023 in Singapore.
 
 - **May 2, 2023** - I have one paper , "FACTIFY-5WQA: 5W Aspect-based Fact Verification through Question Answering" accepted at <b>ACL2023</b>. Huge thanks and congratulations to all collaborators!
