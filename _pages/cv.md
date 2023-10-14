@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<a href="https://drive.google.com/file/d/1KuN1KpZsPCCgvN_ywZSTrMcWeEIJpOhD/view?usp=sharing" style="color: lightblue; text-decoration: none;">View CV Here</a>
+<a href="https://drive.google.com/file/d/1FJHS1iz9SLTG7srvDH894_IVyk82rmkH/view?usp=sharing" style="color: lightblue; text-decoration: none;">View CV Here</a>
 
 <!-- [View CV Here](https://drive.google.com/file/d/1KuN1KpZsPCCgvN_ywZSTrMcWeEIJpOhD/view?usp=sharing) -->
 
