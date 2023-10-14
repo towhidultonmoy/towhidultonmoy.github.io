@@ -17,7 +17,8 @@ During my undergraduate studies in Electrical and Electronic Engineering (EEE), 
 
 The successes you witness on this website are the culmination of my past failures. Each setback has served as a stepping stone, guiding me towards personal growth and a better understanding of my own potential.  -->
 
-## Research Interests.
+<p><span style="color: red; font-weight: bold;">Research Interests</span></p>
+
 I'm broadly interested in natural language processing and deep learning with a focus on developing Trustworthy AI. I am passionate about exploring and building reliable AI based systems.
 Due to the rapid advancements in Large Language Models (LLMs), their application has become ubiquitous across all domains. Consequently, if the generated content lacks controllability, identifiability, and reliability, it can pose potential harm.
 I am passionate to investigate on below domains,
