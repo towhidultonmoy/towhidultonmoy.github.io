@@ -9,13 +9,33 @@ redirect_from:
 ---
 <!-- ## About me -->
 <!-- ## Summary -->
-Let me introduce myself and the value I can bring to you. If you explore my website, you'll see that I am involved in various activities. Throughout my journey, I've discovered one constant trait about myself: I never give up. I am passionate about building stuffs and devising solutions, always striving to tackle any challenge that comes my way.
+<!-- Let me introduce myself and the value I can bring to you. If you explore my website, you'll see that I am involved in various activities. Throughout my journey, I've discovered one constant trait about myself: I never give up. I am passionate about building stuffs and devising solutions, always striving to tackle any challenge that comes my way.
 
 I have a genuine curiosity for knowledge, particularly in areas that contribute to my ability to create. Understanding how things work and their developement processes allows me to blend existing technologies and deliver innovative solutions. Even if you present me with a problem I've never encountered before, rest assured that if it captures my interest, I will dedicate my utmost effort to developing solutions for it.
 
 During my undergraduate studies in Electrical and Electronic Engineering (EEE), I focused on my passion for building. This field enabled me to engage in robotics activities and grasp the hardware aspect. Once I felt confident in that domain, I transitioned to software, as it provided me with the means to create new and impactful solutions. Building things and overcoming challenges has always fascinated me.
 
-The successes you witness on this website are the culmination of my past failures. Each setback has served as a stepping stone, guiding me towards personal growth and a better understanding of my own potential. 
+The successes you witness on this website are the culmination of my past failures. Each setback has served as a stepping stone, guiding me towards personal growth and a better understanding of my own potential.  -->
+
+## Research Interests.
+I'm broadly interested in natural language processing and deep learning with a focus on developing Trustworthy AI. I am passionate about exploring and building reliable AI based systems.
+Due to the rapid advancements in Large Language Models (LLMs), their application has become ubiquitous across all domains. Consequently, if the generated content lacks controllability, identifiability, and reliability, it can pose potential harm.
+I am passionate to investigate on below domains,
+
+Human-AI Interaction and Collaboration : Building intelligent , interactive and reliable NLP systems capable of producing factually accurate outputs to assist users in responding to their requests. These systems should be able to achieve this by understanding user queries, offering reasoning for each generated response, and supporting the information with authentic sources. 
+
+NLP for Social Good: Combining NLP techniques for interdisciplinary research, including healthcare, social science and mental health.
+
+Trustworthy and Responsible NLP: Identifying and addressing misinformation, racial attacks, and bias in contents of social media. Creating solutions that enable the model to interpret underlying factors of detection.
+
+Reasoning and problem solving: LLMs should be able to reason their generation. It should have the capability to request additional information from users in order to better understand their preferences and be equipped to fulfill their requests effectively. Based on that it should gradually be able to generate coherent responses . Thus the hallucination in LLMs can be reduced to a great extent.
+
+Linguistic aspects of Prompt: Can LLMs understand the linguistic properties of the prompt? Can this information help the LLM in generating coherent response.
+
+
+
+
+
 
 
 ## About me
