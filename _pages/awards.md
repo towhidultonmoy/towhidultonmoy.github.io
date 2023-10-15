@@ -44,28 +44,23 @@ author_profile: true
       color: #888;
       margin-top: 10px;
     }
-    /* Style anchor elements to make them blue */
-    a {
-      color: blue;
-      text-decoration: none; /* Remove underline */
-    }
   </style>
 </head>
 <body>
   <h1>My Achievements</h1>
   <div class="container">
     <div class="item">
-      <h2><a href="/awards_desc_ml/">ML Hackathons</a></h2>
+      <h2><a href="/awards_desc_ml/" style="color: blue;">ML Hackathons</a></h2>
       <div class="number">10</div>
       <div class="label">Notable achievements</div>
     </div>
     <div class="item">
-      <h2><a href="/awards_desc_idea/">National Idea Competitions</a></h2>
+      <h2><a href="/awards_desc_idea/" style="color: blue;">National Idea Competitions</a></h2>
       <div class="number">10</div>
       <div class="label">Standout accomplishments</div>
     </div>
     <div class="item">
-      <h2><a href="/awards_desc_robotics/">Robotics Competitions</a></h2>
+      <h2><a href="/awards_desc_robotics/" style="color: blue;">Robotics Competitions</a></h2>
       <div class="number">6</div>
       <div class="label">Memorable successes</div>
     </div>
