@@ -69,7 +69,7 @@ I am open to collaborate with any research opportunity related to my area of int
   <div class="counter-card">
     <h3><a href="/awards/">Achievements</a></h3>
     <p class="count">26</p>
-    <p>I have achieved three awards during my student life. The rest of the awards are in sports</p>
+    <p>I have achieved many awards during my student life. Please click the link to see in details</p>
   </div>
 </div>
 
