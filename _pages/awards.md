@@ -44,6 +44,11 @@ author_profile: true
       color: #888;
       margin-top: 10px;
     }
+    /* Style anchor elements to make them blue */
+    a {
+      color: blue;
+      text-decoration: none; /* Remove underline */
+    }
   </style>
 </head>
 <body>
